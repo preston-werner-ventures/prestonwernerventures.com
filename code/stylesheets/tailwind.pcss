@@ -12,6 +12,18 @@
 
 @tailwind utilities;
 
+.reading-item {
+  @apply mt-2 ml-2;
+}
+
+.reading-link {
+  @apply inline-block -ml-2 px-2 py-1 rounded underline;
+
+  &:hover {
+    @apply bg-blue-200 no-underline;
+  }
+}
+
 /*
   Completely custom CSS goes here, or add a new stylesheet and include it in application.pcss:
 

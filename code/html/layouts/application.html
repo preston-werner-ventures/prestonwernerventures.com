@@ -1,14 +1,144 @@
-<!-- See https://cameronjs.com/layouts for info on Layouts -->
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>prestonwernerventures.com</title>
+    <title>@@title</title>
+    <meta name="description" content="Working on social justice, climate change, and technology." />
+    <meta property="og:site_name" content="Preson-Werner Ventures" />
+    <meta property="og:title" content="@@title" />
+    <meta
+      property="og:description"
+      content="Working on social justice, climate change, and technology."
+    />
+    <meta property="og:image" content="/images/logo-padded.png" />
+    <meta property="og:url" content="https://prestonwernerventures.com" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/application.css" />
-    <script src="/javascripts/application.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400|Roboto:300,400&display=swap"
+      rel="stylesheet"
+    />
+    <script type="text/javascript" src="/javascripts/application.js"></script>
   </head>
-  @@content
+
+  <body
+    class="bg-blue-100 text-blue-900 font-sans antialiased h-full flex flex-col"
+    data-controller="application"
+  >
+    <div class="flex-grow flex-shrink-0 flex-auto">
+      <header class="bg-white py-6 text-center">
+        <div class="max-w-4xl mx-auto sm:flex sm:justify-between sm:items-center">
+          <div class="w-48 sm:w-32 mx-auto sm:mx-0">
+            <a href="/">
+              <img class="" src="/images/logo.png" alt="Preson-Werner Ventures Logo" />
+              <h1 class="hidden">Preston-Werner Ventures</h1>
+            </a>
+          </div>
+          <ul
+            class="flex justify-between mt-6 sm:mt-0 px-6 sm:px-0 sm:font-semibold text-md"
+            data-controller="nav"
+            data-nav-active="bg-blue-800 text-white"
+          >
+            <li>
+              <a
+                href="/team.html"
+                class="px-2 py-1 sm:px-4 sm:py-2 rounded sm:hover:bg-blue-100 sm:hover:text-blue-700"
+                data-target="nav.link"
+                >Team</a
+              >
+            </li>
+            <li class="ml-1">
+              <a
+                href="/notes.html"
+                class="px-2 py-1 sm:px-4 sm:py-2 rounded sm:hover:bg-blue-100 sm:hover:text-blue-700"
+                data-target="nav.link"
+                >Notes</a
+              >
+            </li>
+            <!-- <li>
+              <a href="/projects.html" class="px-4 py-2 rounded hover:bg-blue-100" data-target="nav.link">Projects</a>
+            </li> -->
+            <li class="ml-1">
+              <a
+                href="/reading/2020.html"
+                class="px-2 py-1 sm:px-4 sm:py-2 rounded sm:hover:bg-blue-100 sm:hover:text-blue-700"
+                data-target="nav.link"
+                data-match="/reading/"
+                >Reading</a
+              >
+            </li>
+            <li class="ml-1">
+              <a
+                href="/apply.html"
+                class="px-2 py-1 sm:px-4 sm:py-2 rounded sm:hover:bg-blue-100 sm:hover:text-blue-700"
+                data-target="nav.link"
+                >Apply for Funding</a
+              >
+            </li>
+          </ul>
+        </div>
+      </header>
+
+      <main class="mt-12 sm:mt-16 max-w-4xl mx-6 sm:mx-auto my-2">
+        @@content
+      </main>
+    </div>
+
+    <footer class="bg-white mt-12 py-8 text-center text-sm flex-shrink-0">
+      <div class="text-center">
+        <div>
+          <div class="text-blue-700">
+            &copy;<span data-target="application.year"></span> Preston-Werner Ventures
+          </div>
+          <div class="sm:font-semibold">
+            Working on social justice, climate change, and technology.
+          </div>
+        </div>
+        <!--
+        <ul class="flex justify-center mt-4 sm:mt-0">
+          <li>
+            <a
+              href="https://twitter.com/pwv"
+              class="flex items-center px-4 font-semibold text-gray-500 hover:text-blue-700"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                class="fill-current"
+              >
+                <path
+                  d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"
+                />
+              </svg>
+
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://github.com/pwv"
+              class="flex items-center px-4 font-semibold text-gray-500 hover:text-blue-700"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                class="fill-current"
+              >
+                <path
+                  d="M11.998895,0 C5.37327726,0 0,5.5085046 0,12.3040642 C0,17.7400586 3.43804291,22.3512503 8.2065134,23.9781965 C8.80690015,24.0914936 9.0256914,23.7115707 9.0256914,23.385275 C9.0256914,23.0937239 9.015378,22.3195271 9.00948464,21.2930554 C5.67162896,22.0362843 4.96737162,19.6434498 4.96737162,19.6434498 C4.42149851,18.2219489 3.63473403,17.8435366 3.63473403,17.8435366 C2.54519783,17.0806696 3.71724117,17.0957758 3.71724117,17.0957758 C4.92169803,17.1826369 5.55523497,18.3639479 5.55523497,18.3639479 C6.62561773,20.2439244 8.36416096,19.7008536 9.04779152,19.3858877 C9.15681881,18.5912974 9.46695724,18.048982 9.80950919,17.7415693 C7.14497069,17.4311352 4.3434114,16.3752063 4.3434114,11.6605367 C4.3434114,10.3175885 4.8111974,9.2186067 5.57880843,8.35905943 C5.45504773,8.04787008 5.04324872,6.79631488 5.69667577,5.10290101 C5.69667577,5.10290101 6.70370484,4.7720735 8.99622456,6.3642753 C9.95316001,6.09085165 10.9800792,5.95489514 12.0003683,5.94960794 C13.0199208,5.95489514 14.0461033,6.09085165 15.0045121,6.3642753 C17.2955585,4.7720735 18.3011142,5.10290101 18.3011142,5.10290101 C18.9560146,6.79631488 18.5442156,8.04787008 18.4211916,8.35905943 C19.1902759,9.2186067 19.6543786,10.3175885 19.6543786,11.6605367 C19.6543786,16.3872913 16.8483993,17.4273587 14.1757574,17.7317502 C14.6059732,18.1116731 14.9897787,18.8624551 14.9897787,20.0105323 C14.9897787,21.6548508 14.9750453,22.9819374 14.9750453,23.385275 C14.9750453,23.7145919 15.1916265,24.0975361 15.8001166,23.9774412 C20.5649038,22.3467184 24,17.738548 24,12.3040642 C24,5.5085046 18.6267227,0 11.998895,0"
+                ></path>
+              </svg>
+              <span class="ml-2">GitHub</span>
+            </a>
+          </li>
+        </ul>
+      --></div>
+    </footer>
+  </body>
 </html>

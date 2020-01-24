@@ -3,5 +3,15 @@
 import { Controller } from "stimulus";
 
 export default class extends Controller {
-  connect() {}
+  static get targets() {
+    return ["year"];
+  }
+
+  connect() {
+    this._setYear();
+  }
+
+  _setYear() {
+    this.yearTarget.textContent = new Date().getFullYear();
+  }
 }

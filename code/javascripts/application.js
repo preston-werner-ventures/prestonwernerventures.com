@@ -7,4 +7,6 @@ const application = Application.start();
 const context = require.context("./controllers", true, /\.js$/);
 application.load(definitionsFromContext(context));
 
+var Turbolinks = require("turbolinks");
+Turbolinks.start();
 // Custom JS can go here, or put it in a separate file and `import` it at the top of this file
