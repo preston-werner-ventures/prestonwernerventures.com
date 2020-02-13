@@ -1,0 +1,12 @@
+@@layout("application", { "title" : "Projects: ${name} | Preston-Werner Ventures" })
+
+<section class="flex">
+  @@include("projects_nav.html")
+  <div class="flex-1 font-serif font-light">
+    <h2 class="font-sans text-xl leading-none">${name}</h2>
+    ${html}
+    <p class="my-8 text-center">
+      <a href="/projects/all.html#category=${encodeURIComponent(name)}" class="button">See All Grantees</a>
+    </p>
+  </div>
+</section>

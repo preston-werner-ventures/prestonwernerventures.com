@@ -1,0 +1,45 @@
+@@layout("application", { "title" : "Projects List | Preston-Werner Ventures" })
+
+<div class="" data-controller="filter">
+  <section>
+    <form class="flex items-start w-full" data-target="filter.filters">
+      <div class="w-full mr-1">
+        <label for="category" class="text-sm font-semibold text-gray-500 uppercase">Category</label>
+        <select id="category" class="filter" data-target="filter.category" data-action="change->filter#change">
+          <option value="">All</option>
+          ${categoryOptions}
+        </select>
+      </div>
+      <div class="w-full mx-2">
+        <label for="year" class="text-sm font-semibold text-gray-500 uppercase">Year</label>
+        <select id="year" class="filter" data-target="filter.year" data-action="change->filter#change">
+          <option value="">All</option>
+          ${yearOptions}
+        </select>
+      </div>
+      <div class="w-full ml-1">
+        <label for="location" class="text-sm font-semibold text-gray-500 uppercase">Location</label>
+        <select id="location" class="filter" data-target="filter.location" data-action="change->filter#change">
+          <option value="">All</option>
+          ${locationOptions}
+        </select>
+        <div class="text-right">
+          <a href="#" class="text-xs text-blue-600" data-action="click->filter#clear">Clear Filters</a>
+        </div>
+      </div>
+    </form>
+  </section>
+
+  <section class="mt-6">
+    <h2 class="mr-4 text-sm font-semibold text-gray-500 uppercase">Legend</h2>
+    <ul class="flex flex-wrap text-xs">
+      ${legend}
+    </ul>
+  </section>
+
+  <section>
+    <ul class="flex flex-wrap my-8 -mx-2">
+      ${tiles}
+    </ul>
+  </section>
+</div>

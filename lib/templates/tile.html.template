@@ -1,0 +1,43 @@
+<li
+  class="tile"
+  data-target="filter.tile"
+  data-categories="${categories.join(',')}"
+  data-years="${years.join(',')}"
+  data-locations="${locations.join(',')}"
+>
+  <div class="tile-container">
+    <div class="tile-image-container">
+      <img src="${photo}" class="tile-image" />
+    </div>
+    <div class="tile-title-container">
+      <a href="${url}" target="_blank">
+        <% if (logo === null) { %>
+        <h3 class="tile-title hover:underline">${name}</h3>
+        <% } else { %>
+        <img src="${logo}" class="tile-logo" />
+        <% } %>
+      </a>
+    </div>
+    <footer class="tile-footer">
+      <ul class="tile-categories">
+        <% categorySymbols.forEach(category => { %>
+        <li class="tile-category">
+          <a href="#category=${category.name}">
+            <span class="symbol" title="${category.name}">${category.symbol}</span>
+          </a>
+        </li>
+        <% }) %>
+      </ul>
+      <ul class="tile-metadata">
+        <li class="tile-metadatum">
+          <i class="tile-icon year">calendar_today</i>
+          <a href="#year=${years[0]}">${yearsString}</a>
+        </li>
+        <li class="tile-metadatum">
+          <i class="tile-icon location">place</i>
+          <a href="#location=${locations[0]}">${locations.join(', ')}</a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+</li>

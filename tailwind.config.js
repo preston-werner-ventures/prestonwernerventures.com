@@ -35,9 +35,32 @@ module.exports = {
         "8": "32rem",
         "9": "36rem",
         "10": "40rem"
+      },
+      maxHeight: {
+        "24": "6rem"
+      },
+      spacing: {
+        half: "0.125rem",
+        "2/3": "66.666667%"
+      },
+      width: {
+        "52": "13rem"
       }
     }
   },
   variants: {},
-  plugins: []
+  plugins: [
+    function({ addUtilities }) {
+      const newUtilities = {
+        ".break-slice": {
+          boxDecorationBreak: "slice"
+        },
+        ".break-clone": {
+          boxDecorationBreak: "clone"
+        }
+      };
+
+      addUtilities(newUtilities);
+    }
+  ]
 };

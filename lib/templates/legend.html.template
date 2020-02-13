@@ -1,0 +1,4 @@
+<li class="tile-category pr-2 w-52">
+  <span class="symbol mr-1">${symbol}</span>
+  <span class="text-gray-600 font-medium">${name}</span>
+</li>

@@ -11,6 +11,6 @@ Simply commit to the GitHub repo and Netlify will build and redeploy the site.
 
 To build locally:
 
-    cameronjs build
+    yarn build
 
 See https://cameronjs.com for more documentation for working with CameronJS.

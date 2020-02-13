@@ -24,6 +24,135 @@
   }
 }
 
+.nav {
+  @apply px-2 py-1 rounded break-clone;
+}
+
+@screen sm {
+  .nav:hover {
+    @apply bg-blue-200 text-blue-900;
+  }
+}
+
+.tile {
+  @apply flex-shrink-0 relative w-1/3 my-2;
+}
+
+.tile-container {
+  @apply h-full bg-white shadow mx-2 p-4 rounded-lg;
+}
+
+.tile-image-container {
+  @apply relative pb-2/3;
+}
+
+.tile-image {
+  @apply absolute w-full h-full object-cover rounded;
+}
+
+.tile-title-container {
+  @apply mt-2 mb-6 text-center;
+}
+
+.tile-title {
+  @apply text-lg text-center leading-tight;
+}
+
+.tile-logo {
+  @apply inline max-h-24 mr-2;
+}
+
+.tile-footer {
+  @apply flex justify-between absolute bottom-0 left-0 right-0 my-2 mx-4;
+}
+
+.tile-categories,
+.tile-metadata {
+  @apply flex mx-1;
+}
+
+.tile-category,
+.tile-metadatum {
+  @apply flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold;
+}
+
+.tile-category {
+  @apply mr-1;
+}
+
+.tile-metadatum {
+  @apply ml-3;
+}
+
+.tile-icon {
+  @apply icon mr-half text-lg cursor-pointer;
+}
+
+/* Icons for each category */
+.year {
+  @apply text-gray-400;
+}
+
+.symbol {
+  @apply block bg-blue-700 text-blue-200 rounded w-6 text-center cursor-pointer;
+}
+
+.location {
+  @apply text-gray-400;
+}
+
+.family-planning {
+  @apply text-purple-700;
+}
+
+.i4cr {
+  @apply text-blue-600;
+}
+
+.climate-change-action {
+  @apply text-gray-600;
+}
+
+.reasonable-philanthropy {
+  @apply text-green-600;
+}
+
+.hypothesis {
+  @apply text-red-700;
+}
+
+.future-of-work {
+  @apply text-indigo-600;
+}
+
+.political-engagement {
+  @apply text-yellow-600;
+}
+
+.better-digital-tools {
+  @apply text-pink-600;
+}
+
+.social-impact {
+  @apply text-orange-600;
+}
+
+.refugees {
+  @apply text-teal-600;
+}
+
+.filter {
+  @apply w-full appearance-none outline-none bg-white text-gray-600 border border-gray-400 py-2 px-3 mt-1;
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23CBD5E0%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem top 50%;
+  background-size: 0.65rem auto;
+}
+
+.button {
+  @apply font-sans font-semibold bg-blue-700 text-white px-4 py-3 rounded tracking-wide;
+}
+
 /*
   Completely custom CSS goes here, or add a new stylesheet and include it in application.pcss:
 
@@ -32,3 +161,28 @@
 
   See https://tailwindcss.com/docs/adding-new-utilities for creating new Tailwind utilities
 */
+
+.icon {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px; /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: "liga";
+}

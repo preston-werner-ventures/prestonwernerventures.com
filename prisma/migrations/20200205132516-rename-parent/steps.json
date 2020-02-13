@@ -1,0 +1,17 @@
+{
+  "version": "0.3.14-fixed",
+  "steps": [
+    {
+      "tag": "CreateField",
+      "model": "categories",
+      "field": "parent",
+      "type": "categories",
+      "arity": "Optional"
+    },
+    {
+      "tag": "DeleteField",
+      "model": "categories",
+      "field": "parent_id"
+    }
+  ]
+}
