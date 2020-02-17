@@ -2,22 +2,22 @@
 
 <div class="" data-controller="filter">
   <section>
-    <form class="flex items-start w-full" data-target="filter.filters">
-      <div class="w-full mr-1">
+    <form class="flex flex-wrap items-start w-full" data-target="filter.filters">
+      <div class="w-full md:pr-1 md:w-1/3">
         <label for="category" class="text-sm font-semibold text-gray-500 uppercase">Category</label>
         <select id="category" class="filter" data-target="filter.category" data-action="change->filter#change">
           <option value="">All</option>
           ${categoryOptions}
         </select>
       </div>
-      <div class="w-full mx-2">
+      <div class="w-full md:px-2 md:w-1/3">
         <label for="year" class="text-sm font-semibold text-gray-500 uppercase">Year</label>
         <select id="year" class="filter" data-target="filter.year" data-action="change->filter#change">
           <option value="">All</option>
           ${yearOptions}
         </select>
       </div>
-      <div class="w-full ml-1">
+      <div class="w-full md:pl-1 md:w-1/3">
         <label for="location" class="text-sm font-semibold text-gray-500 uppercase">Location</label>
         <select id="location" class="filter" data-target="filter.location" data-action="change->filter#change">
           <option value="">All</option>
