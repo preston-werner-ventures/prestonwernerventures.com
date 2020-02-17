@@ -1,4 +1,4 @@
-<li class="tile-category pr-2 w-52">
-  <span class="symbol mr-1">${symbol}</span>
+<li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold mr-1 pr-2 w-52">
+  <span class="block bg-blue-700 text-blue-200 rounded w-6 text-center cursor-pointer mr-1">${symbol}</span>
   <span class="text-gray-600 font-medium">${name}</span>
 </li>

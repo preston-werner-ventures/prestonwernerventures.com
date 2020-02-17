@@ -1,40 +1,40 @@
 <li
-  class="tile"
+  class="flex-shrink-0 relative w-1/3 my-3"
   data-target="filter.tile"
   data-categories="${categories.join(',')}"
   data-years="${years.join(',')}"
   data-locations="${locations.join(',')}"
 >
-  <div class="tile-container">
-    <div class="tile-image-container">
-      <img src="${photo}" class="tile-image" />
+  <div class="h-full bg-white shadow mx-3 p-4 rounded-lg">
+    <div class="relative pb-2/3">
+      <img src="${photo}" class="absolute w-full h-full object-cover rounded" />
     </div>
-    <div class="tile-title-container">
+    <div class="mt-2 mb-6 text-center">
       <a href="${url}" target="_blank">
         <% if (logo === null) { %>
-        <h3 class="tile-title hover:underline">${name}</h3>
+        <h3 class="text-lg text-center leading-tight hover:underline">${name}</h3>
         <% } else { %>
-        <img src="${logo}" class="tile-logo" />
+        <img src="${logo}" class="inline max-h-24 mr-2" />
         <% } %>
       </a>
     </div>
-    <footer class="tile-footer">
-      <ul class="tile-categories">
+    <footer class="flex justify-between absolute bottom-0 left-0 right-0 my-2 mx-4">
+      <ul class="flex mx-1">
         <% categorySymbols.forEach(category => { %>
-        <li class="tile-category">
+        <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold mr-1">
           <a href="#category=${category.name}">
-            <span class="symbol" title="${category.name}">${category.symbol}</span>
+            <span class="block bg-blue-700 text-blue-200 rounded w-6 text-center cursor-pointer" title="${category.name}">${category.symbol}</span>
           </a>
         </li>
         <% }) %>
       </ul>
-      <ul class="tile-metadata">
-        <li class="tile-metadatum">
-          <i class="tile-icon year">calendar_today</i>
+      <ul class="flex mx-1">
+        <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold ml-3">
+          <i class="icon mr-half text-lg cursor-pointer text-gray-400">calendar_today</i>
           <a href="#year=${years[0]}">${yearsString}</a>
         </li>
-        <li class="tile-metadatum">
-          <i class="tile-icon location">place</i>
+        <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold ml-3">
+          <i class="icon mr-half text-lg cursor-pointer text-gray-400">place</i>
           <a href="#location=${locations[0]}">${locations.join(', ')}</a>
         </li>
       </ul>
