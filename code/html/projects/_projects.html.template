@@ -1,6 +1,6 @@
 @@layout("application", { "title" : "Projects: ${name} | Preston-Werner Ventures" })
 
-<section class="flex">
+<section class="flex flex-wrap">
   @@include("projects_nav.html")
   <div class="flex-1 font-serif font-light">
     <h2 class="font-sans text-xl leading-none">${name}</h2>
