@@ -5,7 +5,8 @@ export default class extends Controller {
     return ["nav"];
   }
 
-  toggle() {
+  toggle(event) {
+    event.preventDefault();
     this.navTarget.classList.toggle("hidden");
   }
 }
