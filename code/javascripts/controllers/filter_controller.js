@@ -2,7 +2,7 @@ import { Controller } from "stimulus";
 
 export default class extends Controller {
   static get targets() {
-    return ["filters", "category", "year", "location", "tile"];
+    return ["filters", "category", "year", "location", "legend", "tile"];
   }
 
   connect() {
@@ -26,6 +26,9 @@ export default class extends Controller {
     this._filter();
   }
 
+  toggleLegend() {
+    this.legendTarget.classList.toggle("hidden");
+  }
   // pulls the filter names and values out of the hash
   _parseHash() {
     const filters = {};
