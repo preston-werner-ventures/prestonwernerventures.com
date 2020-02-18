@@ -18,6 +18,9 @@ export default class extends Controller {
         (link.dataset.match && location.href.match(link.dataset.match))
       ) {
         link.classList.add(...this.data.get("active").split(" "));
+        if (this.data.get("remove")) {
+          link.classList.remove(...this.data.get("remove").split(" "));
+        }
       } else {
         link.classList.remove(...this.data.get("active").split(" "));
       }
