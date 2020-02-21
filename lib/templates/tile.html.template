@@ -7,14 +7,14 @@
 >
   <div class="h-full bg-white shadow mx-3 p-4 rounded-lg">
     <div class="relative pb-2/3">
-      <img src="${photo}" class="absolute w-full h-full object-cover rounded" />
+      <img src="${photo}" loading="lazy" class="absolute w-full h-full object-cover rounded" />
     </div>
     <div class="mt-2 mb-6 text-center">
       <a href="${url}" target="_blank">
         <% if (logo === null) { %>
         <h3 class="text-lg text-center leading-tight hover:underline">${name}</h3>
         <% } else { %>
-        <img src="${logo}" class="inline max-h-24 mr-2" />
+        <img src="${logo}" loading="lazy" class="inline max-h-24 mr-2" />
         <% } %>
       </a>
     </div>
