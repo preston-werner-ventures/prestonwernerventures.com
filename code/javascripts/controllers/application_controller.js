@@ -10,7 +10,9 @@ export default class extends Controller {
   connect() {
     this._setYear();
     if (location.pathname.match("angel-investments")) {
-      Turbolinks.visit("/projects/better-digital-tools.html", { action: "replace" });
+      Turbolinks.visit("/projects/all.html#category=Better%20Digital%20Tools", {
+        action: "replace"
+      });
     }
   }
 
