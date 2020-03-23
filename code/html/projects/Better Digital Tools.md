@@ -1,1 +1,0 @@
-As more of the world’s collaboration and productivity happens on computers and the internet, we need better digital tooling to unlock additional possibilities. We invest in products that have the potential to change the rate at which the future can be built.
