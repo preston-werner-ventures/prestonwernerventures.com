@@ -28,6 +28,16 @@
 
 # See https://www.netlify.com/docs/netlify-toml-reference/#redirects
 # [[redirects]]
+#   from = "/angel-investments.html"
+#   to = "/projects/all.html#category=Angel%20Investments"
+#   status = 301
+#   force = true
+
+# [[redirects]]
+#   from = "/angel-investments"
+#   to = "/projects/all.html#category=Angel%20Investments"
+#   status = 301
+#   force = true
 
 # See https://www.netlify.com/docs/netlify-toml-reference/#headers
 # [[headers]]
