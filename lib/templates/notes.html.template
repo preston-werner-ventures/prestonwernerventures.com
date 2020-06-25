@@ -4,11 +4,11 @@
   <% notes.map(note => { %>
     <article class="mb-20">
       <header class="">
-        <div class="sm:flex sm:items-center sm:justify-between">
-          <h2 id="global-covid-response" class="font-sans text-lg sm:text-xl text-blue-900 leading-tight">
+        <div class="sm:flex sm:flex-wrap sm:items-start sm:justify-between">
+          <h2 id="global-covid-response" class="font-sans text-lg sm:text-xl w-100 md:w-1/2 lg:w-3/4 text-blue-900 leading-tight">
             ${note.title}
           </h2>
-          <div class="flex items-center mt-2 ml-4">
+          <div class="flex items-center pl-4 w-100 md:w-1/2 lg:w-1/4 ">
             <img class="w-6 rounded-full" src="/images/${note.authorImage}">
             <h3 class="whitespace-no-wrap ml-1 text-sm">${note.author}</h3>
           </div>
