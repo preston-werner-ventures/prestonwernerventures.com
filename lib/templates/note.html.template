@@ -3,21 +3,21 @@
 <section class="font-serif font-light max-w-3xl mx-auto">
   <article class="">
     <header class="">
-      <div class="sm:flex sm:items-center sm:justify-between">
-        <h2 id="global-covid-response" class="font-sans text-lg sm:text-xl text-blue-900 leading-tight">
+      <div class="flex flex-wrap items-start">
+        <h2 class="order-2 md:order-1 font-sans text-lg md:text-xl w-100 md:w-3/4 text-blue-900 leading-tight">
           ${title}
         </h2>
-        <div class="flex items-center mt-2 ml-4">
+        <div class="order-1 md:order-2 flex items-center mb-1 md:mb-0 md:pl-4 w-full md:w-1/4 ">
           <img class="w-6 rounded-full" src="/images/${authorImage}">
           <h3 class="whitespace-no-wrap ml-1 text-sm">${author}</h3>
         </div>
       </div>
-      <p class="text-blue-700 text-left mt-1 sm:mt-0 text-sm sm:text-md">
+      <p class="text-blue-700 text-left mt-1 md:mt-0 text-sm md:text-md">
         ${date}
       </p>
     </header>
 
-    <div class="markdown mt-4 sm:mt-6 font-serif font-light">
+    <div class="markdown mt-4 md:mt-6 font-serif font-light">
       ${content}
     </div>
   </article>
