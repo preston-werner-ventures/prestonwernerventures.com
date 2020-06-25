@@ -79,3 +79,33 @@
   /* Support for IE. */
   font-feature-settings: "liga";
 }
+
+.markdown {
+  p {
+    @apply mt-6;
+  }
+  a {
+    @apply underline;
+  }
+  ol, ul {
+    @apply mt-6 mx-4;
+  }
+  ol {
+    @apply list-decimal
+  }
+  ul {
+    @apply list-disc
+  }
+  li {
+    @apply px-2
+  }
+  h4 {
+    @apply mt-8 font-medium
+  }
+  strong {
+    @apply font-medium
+  }
+  em {
+    @apply italic
+  }
+}
