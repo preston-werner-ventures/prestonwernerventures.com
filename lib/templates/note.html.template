@@ -1,0 +1,26 @@
+@@layout("application", { "title" : "${title} | Preston-Werner Ventures" })
+
+<section class="flex">
+  <section class="flex-1 font-serif font-light">
+    <article class="">
+      <header class="">
+        <div class="sm:flex sm:items-center sm:justify-between">
+          <h2 id="global-covid-response" class="font-sans text-lg sm:text-xl text-blue-900 leading-tight">
+            ${title}
+          </h2>
+          <div class="flex items-center mt-2 ml-4">
+            <img class="w-6 rounded-full" src="/images/${authorImage}">
+            <h3 class="whitespace-no-wrap ml-1 text-sm">${author}</h3>
+          </div>
+        </div>
+        <p class="text-blue-700 text-left mt-1 sm:mt-0 text-sm sm:text-md">
+          ${date}
+        </p>
+      </header>
+
+      <div class="markdown mt-4 sm:mt-6 font-serif font-light">
+        ${content}
+      </div>
+    </article>
+  </section>
+</section>
