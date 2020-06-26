@@ -1,8 +1,13 @@
 .DS_Store
 .env
 node_modules
+
 publish/*
 !publish/images
 !publish/favicon.*
+
 yarn-error.log
+
 code/html/projects/*.html
+code/html/notes/*.html
+code/html/notes.html

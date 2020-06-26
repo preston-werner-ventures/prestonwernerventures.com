@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "build": "node lib/build.js && webpack && postcss --verbose code/stylesheets/application.pcss -o publish/stylesheets/application.css",
-    "clean": "del 'publish/!(robots.txt|images|favicon.*)' 'code/html/projects/*.html'",
+    "clean": "del 'publish/!(robots.txt|images|favicon.*)' 'code/html/projects/*.html' 'code/html/notes/*.html' 'code/html/notes.html'",
     "dev": "$npm_execpath serve & $npm_execpath watch",
     "netlify": "$npm_execpath watch & netlify dev",
     "rebuild": "$npm_execpath clean && $npm_execpath build",
@@ -26,6 +26,7 @@
     "filestack-js": "^3.11.2",
     "lodash.template": "^4.5.0",
     "marked": "^0.8.0",
+    "param-case": "^3.0.3",
     "postcss-cli": "^7.1.0",
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.2.1",
