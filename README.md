@@ -4,7 +4,7 @@
 
 Here's a video to walk you through creating a blog post:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8hhchF8-oAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video embed](https://img.youtube.com/vi/8hhchF8-oAo/0.jpg)](https://www.youtube.com/watch?v=8hhchF8-oAo)
 
 And here's a cheatsheet for the most common Markdown elements:
 
