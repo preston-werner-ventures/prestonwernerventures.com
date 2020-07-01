@@ -21,7 +21,7 @@
     "@prisma/client": "^2.0.0-preview021",
     "airtable": "^0.8.1",
     "autoprefixer": "^9.7.4",
-    "cameronjs-html-webpack-plugin": "^0.4.2",
+    "cameronjs-html-webpack-plugin": "^0.5.1",
     "dotenv": "^8.2.0",
     "filestack-js": "^3.11.2",
     "lodash.template": "^4.5.0",
