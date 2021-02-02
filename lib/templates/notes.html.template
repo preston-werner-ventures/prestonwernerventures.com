@@ -1,6 +1,6 @@
 @@layout("application", { "title" : "Notes | Preston-Werner Ventures" })
 
-<section class="font-serif font-light max-w-3xl mx-auto">
+<section class="font-serif font-light mx-auto">
   <% notes.map(note => { %>
     <article class="mb-20">
       <header class="">
