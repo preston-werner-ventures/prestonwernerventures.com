@@ -12,6 +12,24 @@
 
 @tailwind utilities;
 
+.twitter-fade-top {
+  background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 80%);
+}
+
+.twitter-fade-bottom {
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 80%);
+}
+
+.highlight-word {
+  @apply font-serif text-red-900
+}
+
+.inset-center {
+  @apply absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
 .reading-item {
   @apply mt-2 ml-2;
 }

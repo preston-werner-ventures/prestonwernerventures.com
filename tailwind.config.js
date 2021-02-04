@@ -37,7 +37,9 @@ module.exports = {
         "10": "40rem"
       },
       maxHeight: {
-        "24": "6rem"
+        "24": "6rem",
+        "64": "16rem",
+        "128": "32rem"
       },
       spacing: {
         half: "0.125rem",
