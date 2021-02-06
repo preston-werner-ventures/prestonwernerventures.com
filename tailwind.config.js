@@ -32,9 +32,11 @@ module.exports = {
         serif: ["Roboto Slab", "serif"]
       },
       minHeight: {
+        "3": "12rem",
+        "4": "16rem",
         "8": "32rem",
         "9": "36rem",
-        "10": "40rem"
+        "10": "40rem",
       },
       maxHeight: {
         "24": "6rem",
