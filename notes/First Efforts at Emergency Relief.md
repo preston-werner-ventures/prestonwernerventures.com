@@ -2,7 +2,7 @@
 ## March 23 2020
 ### Theresa Preston-Werner
 
-We find ourselves faced with a new crisis—COVID-19—that threatens the world’s health and well-being. This is a moment of urgency, and this morning, Tom and I deployed $1 million toward efforts to fight against the virus and its effects.
+We find ourselves faced with a new crisis—COVID-19—that threatens the world's health and well-being. This is a moment of urgency, and this morning, Tom and I deployed $1 million toward efforts to fight against the virus and its effects.
 
 At Preston-Werner Ventures, our philanthropic investment concentrates on international efforts. From this lens, we have expertise in understanding long-standing challenges contributing to economic and social imbalances of power and resulting in climate change. Working at this level often means thinking about slow-moving pieces. This foray into emergency relief is the first time we have made such quick funding decisions.
 
@@ -15,4 +15,4 @@ We believe that one role philanthropists can play is to step up early and fill g
 
 Yet we cannot focus solely on what is at our front door. Our team is mobilizing with our public health grant recipients worldwide to determine how Preston-Werner Ventures can best help. I know other funders are similarly pushing to know how they can support on-the-ground work.
 
-This is the beginning of the fight. Now is an excellent time to get involved at whatever level and in whatever way you can. Our involvement, our government’s response, and the programs we all fund will serve as models for the rest of the country and likely the world.
+This is the beginning of the fight. Now is an excellent time to get involved at whatever level and in whatever way you can. Our involvement, our government's response, and the programs we all fund will serve as models for the rest of the country and likely the world.
