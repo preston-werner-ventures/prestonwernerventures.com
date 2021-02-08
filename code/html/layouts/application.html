@@ -31,18 +31,19 @@
   >
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="bg-white py-6 text-center">
-        <div class="max-w-4xl mx-auto md:flex md:justify-between md:items-center">
+        <div class="max-w-4xl mx-auto md:flex md:justify-between md:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">
           <div class="w-48 md:w-32 mx-auto md:mx-0">
             <a href="/">
               <img class="" src="/images/logo.png" alt="Preson-Werner Ventures Logo" />
               <h1 class="hidden">Preston-Werner Ventures</h1>
             </a>
           </div>
+          <a href="#" class="md:hidden" data-action="nav#toggle">
+            <i class="icon icon-2xl absolute mt-3 mr-4 top-0 right-0">menu</i>
+          </a>
           <ul
-            class="flex justify-between max-w-lg lg:max-w-none mx-auto md:mx-0 lg:mx-n mt-6 md:mt-0 px-6 md:px-0 md:font-regular text-sm md:text-base text-blue-800"
-            data-controller="nav"
-            data-nav-active="bg-blue-800 text-white px-1 mx-1"
-            data-nav-remove="text-red-900"
+            class="hidden md:flex justify-between max-w-lg lg:max-w-none mx-auto md:mx-0 lg:mx-n mt-6 md:mt-0 -mb-6 md:mb-0 px-6 md:px-0 py-4 md:py-0 md:font-regular text-lg md:text-base text-blue-800 border-t border-b md:border-t-0 md:border-b-0"
+            data-target="nav.menu"
           >
             <li>
               <a
@@ -51,7 +52,7 @@
                 >Angel Investments</a
               >
             </li>
-            <li>
+            <li class="mt-2 md:mt-0">
               <a
                 href="/team.html"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
@@ -59,7 +60,7 @@
                 >Team</a
               >
             </li>
-            <li>
+            <li class="mt-2 md:mt-0">
               <a
                 href="/projects/climate.html"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
@@ -68,7 +69,7 @@
                 >What We Fund</a
               >
             </li>
-            <li>
+            <li class="mt-2 md:mt-0">
               <a
                 href="/learning/reading.html"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
