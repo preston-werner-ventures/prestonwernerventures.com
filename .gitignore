@@ -10,5 +10,6 @@ publish/*
 yarn-error.log
 
 code/html/projects/*.html
-code/html/notes/*.html
-code/html/notes.html
+code/html/learning/notes.html
+code/html/learning/notes/*.html
+code/html/learning/reading.html

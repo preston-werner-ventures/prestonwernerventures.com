@@ -2,11 +2,17 @@ import { Controller } from "stimulus";
 
 export default class extends Controller {
   static get targets() {
-    return ["link"];
+    return ["link", "menu", "hamburger"];
   }
 
   connect() {
     this._highlightNav();
+  }
+
+  toggle(e) {
+    console.info('target')
+    this.menuTarget.classList.toggle('hidden')
+    e.preventDefault()
   }
 
   // Highlight nav items if the URL matches the `href` on the link, or if the link has a

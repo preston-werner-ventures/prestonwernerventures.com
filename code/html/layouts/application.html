@@ -31,38 +31,28 @@
   >
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="bg-white py-6 text-center">
-        <div class="max-w-4xl mx-auto md:flex md:justify-between md:items-center">
+        <div class="max-w-4xl mx-auto md:flex md:justify-between md:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">
           <div class="w-48 md:w-32 mx-auto md:mx-0">
             <a href="/">
               <img class="" src="/images/logo.png" alt="Preson-Werner Ventures Logo" />
               <h1 class="hidden">Preston-Werner Ventures</h1>
             </a>
           </div>
+          <a href="#" class="md:hidden" data-action="nav#toggle">
+            <i class="icon icon-2xl absolute mt-3 mr-4 top-0 right-0">menu</i>
+          </a>
           <ul
-            class="flex justify-between max-w-lg lg:max-w-none mx-auto md:mx-0 lg:mx-n mt-6 md:mt-0 px-6 md:px-0 md:font-regular text-sm md:text-base text-blue-800"
-            data-controller="nav"
-            data-nav-active="bg-blue-800 text-white"
-            data-nav-remove="text-red-900"
+            class="hidden md:flex justify-between max-w-lg lg:max-w-none mx-auto md:mx-0 lg:mx-n mt-6 md:mt-0 -mb-6 md:mb-0 px-6 md:px-0 py-4 md:py-0 md:font-regular text-lg md:text-base text-blue-800 border-t border-b md:border-t-0 md:border-b-0"
+            data-target="nav.menu"
           >
             <li>
               <a
-                href="/angel-investments.html"
+                href="/projects/all.html#category=Tech"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
-                data-target="nav.link"
-                data-match="/angel-investments/"
-                >Angel <span class="hidden md:inline">Investments</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="/projects.html"
-                class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
-                data-target="nav.link"
-                data-match="/projects/"
-                >Projects</a
+                >Angel Investments</a
               >
             </li>
-            <li class="ml-1">
+            <li class="mt-2 md:mt-0">
               <a
                 href="/team.html"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
@@ -70,22 +60,22 @@
                 >Team</a
               >
             </li>
-            <li class="ml-1">
+            <li class="mt-2 md:mt-0">
               <a
-                href="/notes.html"
+                href="/projects/climate.html"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
                 data-target="nav.link"
-                data-match="/notes/"
-                >Notes</a
+                data-match="/projects/"
+                >What We Fund</a
               >
             </li>
-            <li class="ml-1">
+            <li class="mt-2 md:mt-0">
               <a
-                href="/reading/2020.html"
+                href="/learning/reading.html"
                 class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
                 data-target="nav.link"
-                data-match="/reading/"
-                >Reading</a
+                data-match="/learning"
+                >What We're Learning</a
               >
             </li>
             <!-- <li class="ml-1">
@@ -108,21 +98,20 @@
     </div>
 
     <footer class="bg-white mt-12 py-8 px-4 md:px-0 text-sm">
-      <div class="flex max-w-4xl mx-auto justify-between items-center">
-        <div>
+      <div class="md:flex max-w-4xl mx-auto justify-between items-center">
+        <div class="text-center md:text-left">
           <div class="text-blue-700">
             &copy;<span data-target="application.year"></span> Preston-Werner Ventures
           </div>
           <div class="md:font-semibold">
-            Working on social justice, climate change, and technology.
+            Working on climate change, social justice, and technology.
           </div>
         </div>
 
-        <ul class="flex justify-center mt-4 md:mt-0">
-          <!--
+        <ul class="flex justify-center items-center mt-6 md:mt-0">
           <li>
             <a
-              href="https://twitter.com/pwv"
+              href="https://twitter.com/PWVentures"
               class="flex items-center px-4 font-semibold text-gray-500 hover:text-blue-700"
             >
               <svg
@@ -140,7 +129,6 @@
               <span class="ml-2">Twitter</span>
             </a>
           </li>
-        -->
           <li>
             <a
               href="https://prestonwernerventures.recruitee.com"

@@ -23,7 +23,7 @@
         <% categorySymbols.forEach(category => { %>
         <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold mr-1">
           <a href="#category=${category.name}">
-            <span class="block bg-blue-700 text-blue-200 rounded w-6 text-center cursor-pointer" title="${category.name}">${category.symbol}</span>
+            <span class="block bg-blue-200 text-blue-700 rounded w-6 text-center cursor-pointer" title="${category.name}">${category.symbol}</span>
           </a>
         </li>
         <% }) %>

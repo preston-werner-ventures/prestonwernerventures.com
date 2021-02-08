@@ -4,12 +4,18 @@ import { Controller } from "stimulus";
 
 export default class extends Controller {
   static get targets() {
-    return ["twitterStream","year"];
+    return ["twitterStream", "year", "contact"];
   }
 
   connect() {
     this._setYear();
     this._showTwitterStream();
+  }
+
+  toggleContact(e) {
+    this.contactTarget.classList.toggle('hidden')
+    this.contactTarget.querySelector('input').focus()
+    e.preventDefault()
   }
 
   _setYear() {
