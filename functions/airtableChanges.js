@@ -1,3 +1,10 @@
+// Last edit: 2020-03-02 by Rob Cameron
+//
+// Reploys the site if there are changes to the Airtable Grantees table.
+//
+// A recurring job in Repeater.dev hits this function endpoint every 30 minutes:
+// https://repeater.dev/applications/prestonwernerventures-com/jobs/airtable-grantee-changes
+
 const fetch = require("node-fetch")
 const md5 = require('md5');
 
