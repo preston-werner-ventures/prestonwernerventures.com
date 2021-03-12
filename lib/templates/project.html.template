@@ -1,9 +1,13 @@
 @@layout("application", { "title" : "Projects: ${name} | Preston-Werner Ventures" })
 
-<section class="flex flex-wrap">
+<header class="relative -mt-6">
+  <img src="/images/headers/${image}" style="height: 254px" />
+  <h2 class="absolute font-sans font-light text-4xl leading-none text-${color}" style="bottom: 1rem; margin-left: 11rem;">${name}</h2>
+</header>
+
+<section class="flex flex-wrap mt-4">
   @@include("projects_nav")
   <div class="flex-1 font-serif font-light">
-    <h2 class="font-sans font-light text-xl leading-none">${name}</h2>
     ${html}
     <p class="mt-4">
       If you have suggestions for what we ought to learn more about, <a href="#" class="text-red-900 underline" data-action="application#toggleContact">contact us</a>!

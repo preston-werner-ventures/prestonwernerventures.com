@@ -1,4 +1,5 @@
 # form: politics
+# text: white
 
 Politics is the realm in which we join together to make collective decisions about how our society should work and what it should value. But too often politics has been captured by those already most advantaged by our society, reinforcing unjust hierarchies that poison social relations, undermine democracy, and sabotage our efforts to resolve humanity's more urgent threats: climate change, pandemic disease, militarism, nationalism, and economic dysfunction.
 
