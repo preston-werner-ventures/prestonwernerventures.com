@@ -1,4 +1,5 @@
 # form: climate
+# text: white
 
 Climate change is a multifaceted problem that poses a suite of daunting challenges. First, the vast scale and slow spread of the problem aren't easily internalizable. Second, climate change is a reflection of humanity's inequitable allocation of power and resources, so fighting it necessarily requires significant political and economic realignments. Third, many of the practices and technologies needed for climate security are under-developed.
 

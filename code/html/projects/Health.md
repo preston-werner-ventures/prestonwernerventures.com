@@ -1,3 +1,4 @@
 # form: health
+# text: white
 
 Through the Health portfolio, we help women realize their individual rights to have the number of children they desire, which benefits both their communities and the environment. We support organizations that improve access to holistic sexual and reproductive health care, with a focus on contraception and abortion. Grantees in the Health portfolio are service providers, advocates, and policy makers in the United States and abroad. We are particularly encouraged by the outsized roles that policy and litigation can play to advance these rights, and we’ve witnessed the power of public sector support and funding for these services. In the coming years, we will continue to push for more government adoption, financing, and scaling of effective service delivery models and policies.
