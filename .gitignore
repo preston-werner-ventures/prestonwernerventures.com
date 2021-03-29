@@ -6,6 +6,7 @@ publish/*
 !publish/downloads
 !publish/images
 !publish/favicon.*
+!publish/robots.txt
 
 yarn-error.log
 
