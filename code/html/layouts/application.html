@@ -31,59 +31,68 @@
   >
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="bg-white py-6 text-center">
-        <div class="max-w-4xl mx-auto md:flex md:justify-between md:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">
-          <div class="w-48 md:w-32 mx-auto md:mx-0">
+        <div class="max-w-4xl mx-auto lg:flex lg:justify-between lg:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">
+          <div class="w-48 lg:w-32 mx-auto lg:mx-0">
             <a href="/">
               <img class="" src="/images/logo.png" alt="Preson-Werner Ventures Logo" />
               <h1 class="hidden">Preston-Werner Ventures</h1>
             </a>
           </div>
-          <a href="#" class="md:hidden" data-action="nav#toggle">
+          <a href="#" class="lg:hidden" data-action="nav#toggle">
             <i class="icon icon-2xl absolute mt-3 mr-4 top-0 right-0">menu</i>
           </a>
           <ul
-            class="hidden md:flex justify-between max-w-lg lg:max-w-none mx-auto md:mx-0 lg:mx-n mt-6 md:mt-0 -mb-6 md:mb-0 px-6 md:px-0 py-4 md:py-0 md:font-regular text-lg md:text-base text-blue-800 border-t border-b md:border-t-0 md:border-b-0"
+            class="hidden lg:flex justify-between max-w-lg lg:max-w-none mx-auto lg:mx-0 lg:mx-n mt-6 lg:mt-0 -mb-6 lg:mb-0 px-6 lg:px-0 py-4 lg:py-0 lg:font-regular text-lg lg:text-base text-blue-800 border-t border-b lg:border-t-0 lg:border-b-0"
             data-target="nav.menu"
           >
             <li>
               <a
                 href="/projects/all.html#category=Angel%20Investments"
-                class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
+                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
                 >Angel Investments</a
               >
             </li>
-            <li class="mt-2 md:mt-0">
+            <li class="mt-2 lg:mt-0">
               <a
                 href="/team.html"
-                class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
+                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
                 data-target="nav.link"
                 >Team</a
               >
             </li>
-            <li class="mt-2 md:mt-0">
+            <li class="mt-2 lg:mt-0">
               <a
                 href="/projects/climate.html"
-                class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
+                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
                 data-target="nav.link"
                 data-match="/projects/"
                 >What We Fund</a
               >
             </li>
-            <li class="mt-2 md:mt-0">
+            <li class="mt-2 lg:mt-0">
               <a
                 href="/learning/reading.html"
-                class="px-2 py-1 md:px-4 md:py-2 rounded md:hover:bg-blue-100 md:hover:text-blue-700"
+                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
                 data-target="nav.link"
                 data-match="/learning"
                 >What We're Learning</a
               >
             </li>
+            <li class="mt-2 lg:mt-0">
+              <a
+                href="/blog.html"
+                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
+                data-target="nav.link"
+                data-match="/blog"
+                >Blog</a
+              >
+            </li>
             <!-- <li class="ml-1">
               <a
                 href="/apply.html"
-                class="px-2 py-1 md:px-4 md:py-2 rounded text-red-900 md:hover:bg-red-100 md:hover:text-red-700"
+                class="px-2 py-1 lg:px-4 lg:py-2 rounded text-red-900 lg:hover:bg-red-100 lg:hover:text-red-700"
                 data-target="nav.link"
-                >Apply <span class="hidden md:inline">for Funding</span></a
+                >Apply <span class="hidden lg:inline">for Funding</span></a
               >
             </li> -->
           </ul>
@@ -92,23 +101,23 @@
 
       @@content("banner")
 
-      <main class="mt-12 md:mt-16 max-w-4xl mx-6 md:mx-auto my-2">
+      <main class="mt-12 lg:mt-16 max-w-4xl mx-6 lg:mx-auto my-2">
         @@content
       </main>
     </div>
 
-    <footer class="bg-white mt-12 py-8 px-4 md:px-0 text-sm">
-      <div class="md:flex max-w-4xl mx-auto justify-between items-center">
-        <div class="text-center md:text-left">
+    <footer class="bg-white mt-12 py-8 px-4 lg:px-0 text-sm">
+      <div class="lg:flex max-w-4xl mx-auto justify-between items-center">
+        <div class="text-center lg:text-left">
           <div class="text-blue-700">
             &copy;<span data-target="application.year"></span> Preston-Werner Ventures
           </div>
-          <div class="md:font-semibold">
+          <div class="lg:font-semibold">
             Working on climate change, social justice, and technology.
           </div>
         </div>
 
-        <ul class="flex justify-center items-center mt-6 md:mt-0">
+        <ul class="flex justify-center items-center mt-6 lg:mt-0">
           <li>
             <a
               href="https://twitter.com/PWVentures"

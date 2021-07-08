@@ -1,12 +1,12 @@
 @@layout("application", { "title" : "${title} | Preston-Werner Ventures" })
 
-<section class="font-serif font-light max-w-3xl mx-auto">
+<section class="font-serif font-light w-full">
   <article class="">
     <header class="">
       <div class="">
-        <a href="/learning/notes.html" class="flex items-center text-blue-500">
+        <a href="/blog.html" class="flex items-center text-blue-500">
           <span class="">&larr;</span>
-          <span class="ml-1 underline text-xs">Back to Notes</span>
+          <span class="ml-1 underline text-xs">Back to Blog</span>
         </a>
       </div>
       <div class="flex flex-wrap items-start mt-4">

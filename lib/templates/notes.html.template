@@ -1,7 +1,6 @@
 @@layout("application", { "title" : "Notes | Preston-Werner Ventures" })
 
 <section class="flex flex-wrap">
-  @@include("learning_nav")
   <div class="flex-1 font-serif font-light">
     <% notes.map(note => { %>
       <article class="mb-20">
@@ -25,7 +24,7 @@
         </div>
 
         <div class="text-center mt-8">
-          <a class="transition duration-100 bg-blue-300 hover:bg-blue-700 text-white font-medium rounded inline-block px-8 py-2" href="/learning/notes/${note.link}">Continue Reading</a>
+          <a class="transition duration-100 bg-blue-300 hover:bg-blue-700 text-white font-medium rounded inline-block px-8 py-2" href="/blog/${note.link}">Continue Reading</a>
         </div>
       </article>
     <% }) %>
