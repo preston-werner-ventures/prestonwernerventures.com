@@ -124,12 +124,21 @@
   font-size: 170px;
 }
 
+article .markdown {
+  img {
+    @apply block my-16 mx-auto;
+  }
+  img + em {
+    @apply block text-sm text-center -mt-12 mb-16;
+  }
+}
+
 .markdown {
   p {
     @apply mt-6;
   }
   a {
-    @apply underline;
+    @apply underline text-red-900;
   }
   ol, ul {
     @apply mt-6 mx-4;
