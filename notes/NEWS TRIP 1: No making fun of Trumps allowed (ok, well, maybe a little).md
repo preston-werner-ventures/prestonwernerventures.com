@@ -1,12 +1,8 @@
-# NEWS TRIP 1: No making fun of Trumps allowed (ok, well, maybe a little) 
+# NEWS TRIP 1: A week in the life of a technie foundation
 ## July 22 2021
 ### Colin Sullivan
 
-Not to belabor the point, but this is a new newsletter. We could take it a million different directions. We could sit here making fun of Donald Trump, for instance. How he actually said he wouldn’t “do a coup” with the chairman of the joint chiefs, were he to “do a coup” with anyone. Thus reforming how many of us order at restaurants, for all time. I’m not going to “DO” a Cobb salad ever again, for my part. The more he talks, the more I don’t want to talk like him. 
-
-Anyway. Of course we’re not going there. Making fun of Trump is so three years ago. It’s hard to say whether Alec Baldwin’s “Saturday Night Live” impersonation helped or hurt the underlying anti-madman cause in any event. Maybe there are just as many people out there who don’t like Alec Baldwin? Maybe that’s what we learned? Was what it was.
-
-So … on the one hand, we hope to contribute serious journalism to the progressive causes we support. As in, not press releases. We’d also like you to come back here and look forward to coming back here. So we’re going to try stuff. Shoot for some moons. The more serious affair on offer today sits beneath this post, as in story #2 right below this one. It’s a deep look at “theory of change” — a subject that’s very important in philanthropy. The more casual affair being this piece right here. 
+Hello and welcome back. So … on the one hand, we hope to contribute serious journalism to the progressive causes we support. As in, not press releases. We’d also like you to come back here and look forward to coming back here. So we’re going to try stuff. Shoot for some moons. The more serious affair on offer today sits beneath this post, as in story #2 right below this one. It’s a deep look at “theory of change” — a subject that’s very important in philanthropy. The more casual affair being this piece right here. 
 
 Our first experiment then — (in this column) (brace yourself) — is a wide-ranging, quick analysis of the news as we read it at Preston-Werner Ventures, as parsed by a veteran climate and political reporter (me) who was hired by a thoughtful family foundation to write something refreshing. Away we go.
 
