@@ -1,4 +1,4 @@
-# NEWS TRIP 1: A week in the life of a technie foundation
+# NEWS TRIP 1: A week in the life of a techie foundation
 ## July 22 2021
 ### Colin Sullivan
 
