@@ -2,7 +2,7 @@
 ## July 15 2021
 ### Colin Sullivan
 
-Hello! Today we launch an excellent newsletter. It’s free.
+Hello! Today we launch an excellent newsletter. It’s free. It's <a href="https://prestonwernerventures.com">here</a>.
 
 It’s called Climate Is Everything, because climate change really is about everything, and that makes it too easy to give it a confused shrug and back away, especially when heat waves aren’t pummeling the western United States and testing power grids up and down the Pacific Coast.
 
