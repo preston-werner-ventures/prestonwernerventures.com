@@ -1,5 +1,5 @@
 <li
-  class="flex-shrink-0 relative w-full md:w-1/3 my-3"
+  class="flex-shrink-0 relative w-full md:w-1/${width} my-3"
   data-target="filter.tile"
   data-categories="${categories.join(',')}"
   data-years="${years.join(',')}"
