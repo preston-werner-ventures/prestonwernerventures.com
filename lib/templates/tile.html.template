@@ -4,6 +4,7 @@
   data-categories="${categories.join(',')}"
   data-years="${years.join(',')}"
   data-locations="${locations.join(',')}"
+  data-created="${created}"
 >
   <div class="h-full bg-white shadow mx-3 p-4 rounded-lg">
     <div class="relative pb-2/3">
