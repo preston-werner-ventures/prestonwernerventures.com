@@ -20,7 +20,7 @@ At Preston-Werner Ventures, we focus on climate change, how to slow it down, and
 
 Then they say: “But what can we do? It’s all about fixing the underlying structures,” or “We need to invest in innovation,” or “We can’t do it alone. We need global cooperation, and until China does anything, there’s no point,” or “It’s about the fossil fuel industry, and they control lobbyists, and so we’re screwed.” 
 
-People seem defeatist. Or they’re sloughing responsibility off onto others or onto too-big-to-deal-with structures, or they’re negating their own potential power to act. “It doesn’t matter if you buy green or shut your lights off,” they think. “No individual actions matter.”
+People seem defeatist. Often they’re sloughing off responsibility onto others, or onto too-big-to-deal-with structures, or they’re negating their own potential power to act. “It doesn’t matter if you buy green or shut your lights off,” they think. “No individual actions matter.”
 
 This is such bullshit.
 
