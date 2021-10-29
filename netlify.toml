@@ -26,6 +26,11 @@
   environment = { NODE_ENV = "production" }
 
 [[headers]]
+  for = "/upload"
+  [headers.values]
+    Basic-Auth = "UPLOAD_AUTH"
+
+[[headers]]
   for = "/upload.html"
   [headers.values]
     Basic-Auth = "UPLOAD_AUTH"
