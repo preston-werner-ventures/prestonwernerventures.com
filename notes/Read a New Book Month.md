@@ -2,9 +2,11 @@
 ## November 29 2021
 ### Kate Goss
 
-You may have noticed that we at PWV love a good read. From our weekly Reading Groups to active Slack channels we’re always sharing our discoveries, so when we found that December is officially Read a New Book Month it felt like our kind of celebration.
+You may have noticed that we at PWV love a good read. From our weekly [Reading Groups](/learning/reading) to active Slack channels we’re always sharing our discoveries, so when we found that December is officially Read a New Book Month it felt like our kind of celebration.
 
-We wanted to pass on this joy to you, so we’ve found some climate-themed books to read and share. Perhaps your family embraces the Icelandic tradition of Jolabokaflod, you are looking for holiday gift sets, it’s time for a new book for a family read-aloud, or you simply want to curl up and enjoy a new adventure. Whatever your motivation, this month is for you.
+We wanted to pass on this joy to you, so we’ve found some climate-themed books to read and share. Perhaps your family embraces the Icelandic tradition of [Jolabokaflod](https://www.npr.org/2012/12/25/167537939/literary-iceland-revels-in-its-annual-christmas-book-flood), you are looking for holiday gift sets, it’s time for a new book for a family read-aloud, or you simply want to curl up and enjoy a new adventure. Whatever your motivation, this month is for you.
+
+<p class="text-center font-medium">This list focuses on children and youth. Stay tuned for our list of favorite climate-reads for adults from 2021.</p>
 
 [Climate Generation](https://www.climategen.org/our-core-programs/climate-change-education/curriculum/humanities-content-for-your-classroom/climate-fiction-and-other-important-readings-to-support-climate-change-education/) has compiled a reading list to support youth climate change education. We’ve picked out a few highlights to share.
 
@@ -168,3 +170,7 @@ Harper Collins compiled an incredible selection of [19 Children's Books to Inspi
     </p>
   </div>
 </div>
+
+<h2 class="text-center text-xl font-medium text-red-900">Happy Read a New Book Month!</h2>
+
+![image](https://user-images.githubusercontent.com/300/144131283-9291d992-6173-48e8-b2bd-b4f2791824c0.png)
