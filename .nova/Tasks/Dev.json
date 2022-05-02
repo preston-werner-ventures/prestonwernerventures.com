@@ -1,0 +1,17 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "yarn build"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "yarn clean"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "yarn dev"
+    }
+  },
+  "openLogOnRun" : "fail"
+}
