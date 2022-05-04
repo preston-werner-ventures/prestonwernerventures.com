@@ -1,6 +1,6 @@
 # form: health
 
-From the start, Preston-Werner Ventures recognized that sexual and reproductive health and rights (SRHR) is not universally recognized and realized within current health systems, policies and programs. We have been working with organizations that brought these essential healthcare services closer to users around the world. We are supporting organizations that promote women’s agency and youth leadership alongside, to ensure the long-term success of these programs. In the coming years, we will seek out partners who share our vision of promoting equity and justice for all, applying interdisciplinary and long-range thinking towards universal access to sexual and reproductive health and rights.
+From the start, Preston-Werner Ventures recognized that sexual and reproductive health and rights (SRHR) are not universally recognized and realized within current health systems, policies and programs. We have been working with organizations that brought these essential healthcare services closer to users around the world. We are supporting organizations that promote women’s agency and youth leadership alongside, to ensure the long-term success of these programs. In the coming years, we will seek out partners who share our vision of promoting equity and justice for all, applying interdisciplinary and long-range thinking towards universal access to sexual and reproductive health and rights.
 
 **Public Health Goal**
 
@@ -30,7 +30,7 @@ Young people have a keen awareness of the inter-connected nature of our globaliz
 
 ### How we work
 
-We will consider investing in coalition work and policy dialogues with a variety of stakeholders as keys to long-term success to ensure SRHR is embedded in government policies.
+We will consider investing in coalition work and policy dialogues with a variety of stakeholders as keys to long-term success to ensure SRHR are embedded in government policies.
 
 We will continue to work with other funders to ensure coordination and to maximize our collective impact.
 
