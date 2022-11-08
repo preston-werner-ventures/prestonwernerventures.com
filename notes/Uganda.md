@@ -1,8 +1,8 @@
 # COMMUNITY: For PWV, finding global partners started with a workshop in Uganda 
-## Aug. 12, 2021 
+## Aug. 12, 2021
 ### Colin Sullivan and Amelia Abdelrazik
 
-Reframing power dynamics in philanthropy is easier said than done. This post is about how Preston-Werner Ventures worked intimately with a handful of sexual and reproductive health organizations in East Africa, in hopes that we might better navigate between the global North and global South with actions not words. 
+Reframing power dynamics in philanthropy is easier said than done. This post is about how 128 Collective worked intimately with a handful of sexual and reproductive health organizations in East Africa, in hopes that we might better navigate between the global North and global South with actions not words. 
 
 Context: PWV staff in 2019 went to Kampala, in Uganda, to meet with prospective grantees. We flew people in from across East Africa, conducted a three-day workshop and let the grantees decide some major family-planning funding decisions for themselves. 
 

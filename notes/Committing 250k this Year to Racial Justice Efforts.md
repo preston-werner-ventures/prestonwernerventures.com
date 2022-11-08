@@ -9,7 +9,7 @@ of thousands of Black men and women who lost their lives to the systemic racism 
 fabric of this country.
 
 It will take a monumental anti-racist movement to change the underlying conditions that allow racism
-in the United States to flourish. As part of that movement, Preston-Werner Ventures is committing
+in the United States to flourish. As part of that movement, 128 Collective is committing
 $250,000 this year to projects that fight systemic racism. Here's how we intend the funds to be dispersed:
 
 $50,000 toward efforts to put an end to police brutality and the criminalization system.

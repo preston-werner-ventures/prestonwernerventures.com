@@ -1,6 +1,6 @@
 # form: health
 
-From the start, Preston-Werner Ventures recognized that sexual and reproductive health and rights (SRHR) are not universally recognized and realized within current health systems, policies and programs. We have been working with organizations that brought these essential healthcare services closer to users around the world. We are supporting organizations that promote women’s agency and youth leadership alongside, to ensure the long-term success of these programs. In the coming years, we will seek out partners who share our vision of promoting equity and justice for all, applying interdisciplinary and long-range thinking towards universal access to sexual and reproductive health and rights.
+From the start, 128 Collective recognized that sexual and reproductive health and rights (SRHR) are not universally recognized and realized within current health systems, policies and programs. We have been working with organizations that brought these essential healthcare services closer to users around the world. We are supporting organizations that promote women’s agency and youth leadership alongside, to ensure the long-term success of these programs. In the coming years, we will seek out partners who share our vision of promoting equity and justice for all, applying interdisciplinary and long-range thinking towards universal access to sexual and reproductive health and rights.
 
 **Public Health Goal**
 
@@ -8,7 +8,7 @@ Advance the goal of universal access to sexual and reproductive health and right
 
 **Our Theory of Change**
 
-Preston-Werner Ventures will contribute to social justice by supporting champions around the world to advocate for universal access to SRHR, and in particular, access to the fullest range of contraceptive methods, information and counseling to support people’s decisions to decide when and whether to have children. We will support partners who are contributing efforts to create a future in which all people, especially women and girls, have agency, bodily autonomy and a decisive voice in determining their own destinies.
+128 Collective will contribute to social justice by supporting champions around the world to advocate for universal access to SRHR, and in particular, access to the fullest range of contraceptive methods, information and counseling to support people’s decisions to decide when and whether to have children. We will support partners who are contributing efforts to create a future in which all people, especially women and girls, have agency, bodily autonomy and a decisive voice in determining their own destinies.
 
 Our areas of support will include:
 

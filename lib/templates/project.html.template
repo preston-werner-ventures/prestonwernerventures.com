@@ -1,4 +1,4 @@
-@@layout("application", { "title" : "Projects: ${name} | Preston-Werner Ventures" })
+@@layout("application", { "title" : "Projects: ${name} | 128 Collective" })
 
 <section class="flex flex-wrap">
   @@include("projects_nav")

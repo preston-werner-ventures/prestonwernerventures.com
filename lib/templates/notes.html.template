@@ -1,4 +1,4 @@
-@@layout("application", { "title" : "Notes | Preston-Werner Ventures" })
+@@layout("application", { "title" : "Notes | 128 Collective" })
 
 <section class="flex flex-wrap">
   <div class="flex-1">

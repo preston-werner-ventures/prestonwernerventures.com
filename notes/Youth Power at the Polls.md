@@ -2,7 +2,7 @@
 ## March 25 2022
 ### Kate Goss
 
-_At Preston-Werner Ventures we’re diving into the roles that youth are playing in building and strengthening democracy. Here we share stories of how they are modernizing polling places, building campaigns based on issues they care about, and delivering election-winning margins. How can you help? Read ahead to see our ranking of best groups and geographies to support._
+_At 128 Collective we’re diving into the roles that youth are playing in building and strengthening democracy. Here we share stories of how they are modernizing polling places, building campaigns based on issues they care about, and delivering election-winning margins. How can you help? Read ahead to see our ranking of best groups and geographies to support._
 
 <div class="text-center">
   <img src="https://user-images.githubusercontent.com/300/160168283-3122d9f3-8f8f-4feb-bf24-82d4d2cb1910.png" />

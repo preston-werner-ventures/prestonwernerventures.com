@@ -1,4 +1,4 @@
-@@layout("application", { "title" : "Projects List | Preston-Werner Ventures" })
+@@layout("application", { "title" : "Projects List | 128 Collective" })
 
 <div class="" data-controller="filter">
   <section>

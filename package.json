@@ -1,5 +1,5 @@
 {
-  "name": "prestonwernerventures.com",
+  "name": "128collective.org",
   "version": "0.0.1",
   "scripts": {
     "build": "node lib/build.js && webpack && tailwindcss -i ./code/stylesheets/application.css -o ./publish/stylesheets/application.css",

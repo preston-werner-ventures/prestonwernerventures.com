@@ -14,7 +14,7 @@ But anyway, here’s our first “big idea” post. We’ll be offering several 
 
 *Today’s mind bend*: The sci-fi novel “The Ministry for the Future” and what we can do to avoid its most dire predictions about global warming’s acceleration in the 21st Century.
 
-Reading that book and debating its merit is the sort of activity that excites us at <a href="https://prestonwernerventures.com">Preston-Werner Ventures</a> (PWV). Our staff, whose locations span several time zones, whose roster includes web developers as well as activists and academics, held a freewheeling Zoom roundtable recently to discuss the novel and weigh our response.
+Reading that book and debating its merit is the sort of activity that excites us at <a href="https://128collective.org">128 Collective</a> (PWV). Our staff, whose locations span several time zones, whose roster includes web developers as well as activists and academics, held a freewheeling Zoom roundtable recently to discuss the novel and weigh our response.
 
 The novel jogged more questions than answers, but that’s often the point of our debates. We think of our meetings as a kind of internal TedTalk driven by a desire to do what Kurt Vonnegut said in the novel “Player Piano”: “ … to stand as close to the edge as I can without going over. Out on the edge you see all kinds of things you can't see from the center.”
 
