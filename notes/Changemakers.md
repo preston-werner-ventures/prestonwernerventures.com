@@ -86,6 +86,6 @@ Blumenthal then said he remains “very hopeful” about a clean electricity sta
 
 “The planet is on fire; there’s no such thing as neutrality,” he said. “The hottest places in hell are reserved for those who reserve their neutrality in times of great moral crisis.”
 
-Editor’s note: If you’d like to chat with PWV’s Jae Pasari about why he decided to fund Climate Changemakers, he’d like you to know he’s available to talk. Please reach out to this newsletter, and we’ll set you up. Thanks for reading.
+Editor’s note: If you’d like to chat with 128 Collective's Jae Pasari about why he decided to fund Climate Changemakers, he’d like you to know he’s available to talk. Please reach out to this newsletter, and we’ll set you up. Thanks for reading.
 
 — Colin Sullivan

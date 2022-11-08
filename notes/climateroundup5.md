@@ -73,7 +73,7 @@ In happier news, 128 Collective political expert Jake Werner appeared on a <a hr
 
 Appearing on the “Time to Say Goodbye” podcast, Werner discussed the infrastructure package making its way through Congress and whether the legislation represents a break from “neoliberal” ideology. He also talked about China and Chinese competition and why some progressives who backed Vermont Sen. Bernie Sanders have become hawkish on China.
 
-Werner also argued for “progressive globalization” on the show, something he is fighting for through Justice Is Global, an organization that is funded by PWV.
+Werner also argued for “progressive globalization” on the show, something he is fighting for through Justice Is Global, an organization that is funded by 128 Collective.
 
 Thanks for reading. We have ambitious plans for how we’ll use this space in the fall and year ahead, so thanks again for showing up. See you in a couple weeks!
 

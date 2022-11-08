@@ -6,11 +6,11 @@ Meet Yari Greaney, a self-described goofball with a bright smile who can claim a
 
 Greaney is 128 Collective’ recently hired program manager for Local Politics and Environmental Justice. She’s an avid hiker, birder and activist who always points out that she lives on Lisjan Ohlone lands on the east side of the San Francisco Bay, not in “El Cerrito,” as the area is commonly referred to in modern maps.
 
-She does so because she recognizes the violence that made El Cerrito exist and wants to draw a spotlight to the various policies that stole the land from its original owners. Other issues she cares about deeply and intends to work on at PWV are the prison incarceration crisis in the United States and how to disrupt an often tilted power dynamic between funders and grantees in philanthropy.
+She does so because she recognizes the violence that made El Cerrito exist and wants to draw a spotlight to the various policies that stole the land from its original owners. Other issues she cares about deeply and intends to work on at 128 Collective are the prison incarceration crisis in the United States and how to disrupt an often tilted power dynamic between funders and grantees in philanthropy.
 
 “I want a just world,” Greaney said. “I want a world that is capable of healing. And I want a world that equitably deals with climate impacts, where wealth is redistributed and justice better understood.”
 
-Greaney was hired by PWV to improve our outreach on EJ issues and help shift a funding dynamic that is often focused on technical or macroeconomic solutions to climate change. Returning land to Indigenous communities (also called “Landback”) is just as valid a place to start as anywhere when it comes to rethinking how colonization and systemic racism shaped the United States, she said, not to mention how we can better protect those lands from corporate actors.
+Greaney was hired by 128 Collective to improve our outreach on EJ issues and help shift a funding dynamic that is often focused on technical or macroeconomic solutions to climate change. Returning land to Indigenous communities (also called “Landback”) is just as valid a place to start as anywhere when it comes to rethinking how colonization and systemic racism shaped the United States, she said, not to mention how we can better protect those lands from corporate actors.
 
 So maybe “owners” of the lands where she resides isn’t the right word, for someone who has committed her professional life to upending unjust economic rules and structures. The notion “private ownership” might be one of the concepts she’d change first, in fact, could she enact the progressive policy agenda of her dreams.
 
@@ -68,17 +68,17 @@ Greaney also sees herself as part of a trajectory that could span 1,000 years or
 
 “All of this is totally possible” she added. “It’s just about changing the power dynamic. This movement existed before us, and it will exist after us. We’re here for only a moment.”
 
-#### Changing how PWV operates, days into the job
+#### Changing how 128 Collective operates, days into the job
 
-Greaney is off to a quick start at PWV. Among her first ideas was a plan to pay non-profits for their time when meeting with our program mangers to discuss funding.
+Greaney is off to a quick start at 128 Collective. Among her first ideas was a plan to pay non-profits for their time when meeting with our program mangers to discuss funding.
 
 Greaney brought up the plan soon after her first day, explaining that smaller non-profits and community organizers often share their expertise with potential funders only to see the funders walk away.
 
 A memo on the idea explained as follows: “Especially in the movement-building sector of the non-profit industrial complex, there is a history of funders extracting knowledge from grassroots communities and then often using that information to intentionally or unintentionally undermine their work.”
 
-Even paying them $50 for their time (as PWV has decided to do) would “bring a bit more balance to the power imbalance inherent in funder-potential grantee meetings,” the memo said.
+Even paying them $50 for their time (as 128 Collective has decided to do) would “bring a bit more balance to the power imbalance inherent in funder-potential grantee meetings,” the memo said.
 
-Greaney further explained that she wanted to kick off her work as PWV’s go-to on environmental justice in this way because “it’s very important that I incorporate the guidance and expertise of grassroots leaders, who are often volunteers or operating organizations with limited staff.”
+Greaney further explained that she wanted to kick off her work as 128 Collective’s go-to on environmental justice in this way because “it’s very important that I incorporate the guidance and expertise of grassroots leaders, who are often volunteers or operating organizations with limited staff.”
 
 “When we don't pay these organizers — who are often women, people of color, and people who have been oppressed by the systems they are organizing to change — then we are replicating and exacerbating harmful, extractive patterns that further exploit people.”
 

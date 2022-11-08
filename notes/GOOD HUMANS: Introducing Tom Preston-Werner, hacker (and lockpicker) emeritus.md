@@ -14,14 +14,14 @@ Tom also doesn’t seem to pay much attention to what other billionaires are up 
 
 In some ways, Tom’s path has been the cliche tech-success story, the latest version of the American dream. He dropped out of college and moved to the Bay Area, where after selling a company called Gravatar he helped to launched GitHub, a darling tech outfit bought by Microsoft in 2018 — to the tune of $7.5 billion. He’s also thoughtful, down to Earth and unassuming. He’s always working, and most days he wears a worn black t-shirt to work. His is a quiet alpha presence that tends to mean he says weird things that also happen to make sense.
 
-During a recent 128 Collective (PWV) meeting about the organization’s performance in 2020, for instance, Tom was happy to field a question about the chosen logo for his new open-web development platform, RedwoodJS.
+During a recent 128 Collective meeting about the organization’s performance in 2020, for instance, Tom was happy to field a question about the chosen logo for his new open-web development platform, RedwoodJS.
 
 “It’s like a pine cone, but it’s a Redwood cone,” he deadpanned, to chuckles from others in the meeting, as he held up a small inch-long cone for all to see.
 
 ![image](https://user-images.githubusercontent.com/300/126712748-90445120-391c-4fa8-a452-ed2e2e44a8dd.png)
 *Tom’s Redwood cone.*
 
-That metaphor — tiny seeds leading to massive root systems and giant trees — seems apt for Tom and his open-web ethic. His ideas for making products lean toward helping others to make cool stuff, and RedwoodJS is no exception. More than 200 individuals have contributed code to the project, and that fits with PWV’s “Hypothesis” mode of living and working, which states that there are certain things that ought to exist … so why not build them?
+That metaphor — tiny seeds leading to massive root systems and giant trees — seems apt for Tom and his open-web ethic. His ideas for making products lean toward helping others to make cool stuff, and RedwoodJS is no exception. More than 200 individuals have contributed code to the project, and that fits with 128 Collective’s “Hypothesis” mode of living and working, which states that there are certain things that ought to exist … so why not build them?
 
 RedwoodJS, moreover, appears to be the latest in a line of ideas that could fundamentally change the way developers work, but you wouldn’t know it from asking Tom about it, who hesitates to assess how significant the product could be.
 
@@ -60,13 +60,13 @@ That “Lol” having not been followed by a lockpick emoji. Does one exist in S
 
 #### The Hacker Zephyr: Here comes the coding train
 
-Higher up on Tom’s list of stuff he likes to chat about is the language-learning app Chatterbug, where he was the chief product officer until recently, and how to get young people from all socio-economic backgrounds into the tech industry. Just as important is how Tom wants to spread his wealth around, having pledged to give away 10 percent through the Preston-Werner Foundation, which he co-founded with his wife, Theresa. And while he has his mind in a lot of pots, Tom’s pet project is Hack Club, a group that encourages teenagers to start their own coding clubs.
+Higher up on Tom’s list of stuff he likes to chat about is the language-learning app Chatterbug, where he was the chief product officer until recently, and how to get young people from all socio-economic backgrounds into the tech industry. Just as important is how Tom wants to spread his wealth around, having pledged to give away 10 percent through the 128 Collective Foundation, which he co-founded with his wife, Theresa. And while he has his mind in a lot of pots, Tom’s pet project is Hack Club, a group that encourages teenagers to start their own coding clubs.
 
 For his 42nd birthday last month, Tom purchased 42 cross-country train tickets for fledgling coders who will embark on “a trip of a lifetime” this week, according to Christina Asquith, the group’s chief operations officer, during which they’ll participate in “the world’s longest hackathon” aboard a train they’re calling the Hacker Zephyr.
 
 The adventure starts in Burlington, Vt. Assembled hackers will chug south to New York, west through Chicago and stop briefly to pick up Tom this weekend in Iowa. They’ll then cross the Rockies on their way to San Francisco and follow the Pacific Coast to Southern California, to finish at SpaceX.
 
-Asquith estimated the on-the-rails hackathon at 3,502 miles long. She credits Tom (along with another Hack Club believer, SpaceX founder Elon Musk) for his enthusiasm about the project, as well as the $750,000 the Preston-Werner Foundation has donated to the club.
+Asquith estimated the on-the-rails hackathon at 3,502 miles long. She credits Tom (along with another Hack Club believer, SpaceX founder Elon Musk) for his enthusiasm about the project, as well as the $750,000 the 128 Collective Foundation has donated to the club.
 
 “Tom is a GREAT guy,” wrote Asquith, in an email. “He’s seriously an awesome thinker, builder, connector, programmer, creator and feminist.”
 
@@ -86,7 +86,7 @@ As for hackers that have more aggressive (if not nefarious) notions of the calli
 
 #### On climate change and philanthropy
 
-The core work of the charitable arm of PWV is not web development, however. The focus is climate change, and its difficult political reality, and by the way that’s demonstrably a much trickier problem than Tom or any other web guru is used to.
+The core work of the charitable arm of 128 Collective is not web development, however. The focus is climate change, and its difficult political reality, and by the way that’s demonstrably a much trickier problem than Tom or any other web guru is used to.
 
 One of the ideas behind this newsletter is to connect the tech industry with activists trying their best to put a dent in the planet’s carbon emissions, to somehow draw that crowd and their talents to the cause. Tom wants to attract more developers, programmers, engineers and entrepreneurs to get into the mix on climate, because he believes his industry tackles complex challenges in a much different way than governments or policy experts — even if it’s a difficult marriage to pull off.
 
@@ -112,7 +112,7 @@ Or as Theresa put it, perhaps more candidly, when asked about why Tom was so inv
 
 Here’s hoping that curiosity draws in more brains like Tom and Theresa’s.
 
-Next week: More on Hack Club’s hackathon from the railroad and a deep dive into “theory of change”. Stay tuned for much more on the excellent humans behind PWV, our grantees and our community in the weeks and months ahead. Feedback always welcome! This newsletter is a new venture. Get in touch anytime.
+Next week: More on Hack Club’s hackathon from the railroad and a deep dive into “theory of change”. Stay tuned for much more on the excellent humans behind 128 Collective, our grantees and our community in the weeks and months ahead. Feedback always welcome! This newsletter is a new venture. Get in touch anytime.
 
 — by Colin Sullivan
 

@@ -48,13 +48,13 @@ The group, which is funded in part by 128 Collective, was started to address und
 
 The non-profit also has a truly stellar <a href="https://fullerproject.org/our-impact/">promotional video</a>. It’s worth a watch.
 
-PWV believes in the initiative because of its ties to climate justice and marginalized voices. A <a href="https://fullerproject.org/story/nigeria-niger-delta-gas-flaring-women-poverty/">recent story</a>, for example, which was completed in partnership with Vice, details how natural gas companies operating in Nigeria use gas flaring despite the effects on women in the Niger Delta region. The reporter behind the story, Shola Lawal, notes that women in the region are often the breadwinners in their families, but their livelihoods and lands have been destroyed by gas operations in the country.
+128 Collective believes in the initiative because of its ties to climate justice and marginalized voices. A <a href="https://fullerproject.org/story/nigeria-niger-delta-gas-flaring-women-poverty/">recent story</a>, for example, which was completed in partnership with Vice, details how natural gas companies operating in Nigeria use gas flaring despite the effects on women in the Niger Delta region. The reporter behind the story, Shola Lawal, notes that women in the region are often the breadwinners in their families, but their livelihoods and lands have been destroyed by gas operations in the country.
 
 For much more on the Fuller Project, check out the organization’s website <a href="here. https://fullerproject.org/">here</a>.
 
 #### Newsom in trouble?
 
-Another item on PWV’s radar is the proposed recall of California Gov. Gavin Newsom. A surprise poll from Survey USA and the San Diego Union Tribune this week found that the San Francisco Democrat might be in trouble when the recall election takes place Sept. 14.
+Another item on 128 Collective's radar is the proposed recall of California Gov. Gavin Newsom. A surprise poll from Survey USA and the San Diego Union Tribune this week found that the San Francisco Democrat might be in trouble when the recall election takes place Sept. 14.
 
 According to a survey from 1,100 state residents, conducted from Aug. 2 to Aug. 4, just over half of respondents said they favor recalling Newsom, while 40 percent said they would vote to keep him in power.
 

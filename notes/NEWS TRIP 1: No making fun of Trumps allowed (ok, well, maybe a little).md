@@ -12,7 +12,7 @@ Our first experiment then — (in this column) (brace yourself) — is a wide-ra
 
 That’s from the [MIT Technology Review](https://www.technologyreview.com/2020/12/04/1013068/algorithms-create-a-poverty-trap-lawyers-fight-back/). It’s about how even one economic setback “can lead to a vicious cycle that sometimes ends in bankruptcy or homelessness.” It demands compassion as we assess the role of algorithms in our lives. It’s a curious read. Check it out.
 
-Insider view: The article sparked a back-and-forth in the PWV Slack monster about whether an algorithm is artificial intelligence. The reporter involved in the exchange, who likes to ask dumb questions, wondered whether an algorithm is AI. Smarter-than-him web developers in the Slack skirmish concluded this: NO, it’s not AI.
+Insider view: The article sparked a back-and-forth in the 128 Collective Slack monster about whether an algorithm is artificial intelligence. The reporter involved in the exchange, who likes to ask dumb questions, wondered whether an algorithm is AI. Smarter-than-him web developers in the Slack skirmish concluded this: NO, it’s not AI.
 
 The clever tech guys having pointed out that AI has to pass [the Turing test](https://searchenterpriseai.techtarget.com/definition/Turing-test), to determine whether it thinks like a human. They also explained that an algorithm is a statistical model that makes predictions, which can also “learn” if it rebuilds the model when it has new data.
 
@@ -22,7 +22,7 @@ Cameron then recommended the silly reporter read [this book](https://www.amazon.
 
 #### Most compelling Gates’ divorce piece
 
-… goes to “Inside Philanthropy,” which urged Melinda French Gates to transform women’s philanthropy by supporting abortion work and keeping family planning front and center. The recommendation to read the article came from Sono Aibe, Preston Werner’s recently hired program manager for Public Health — a wonderful woman I’ve only met on Zoom who has spent her career working for integrated reproductive health, women’s economic empowerment and environmental conservation programs in East Africa that aim to serve local communities’ needs.
+… goes to “Inside Philanthropy,” which urged Melinda French Gates to transform women’s philanthropy by supporting abortion work and keeping family planning front and center. The recommendation to read the article came from Sono Aibe, Preston-Werner’s recently hired program manager for Public Health — a wonderful woman I’ve only met on Zoom who has spent her career working for integrated reproductive health, women’s economic empowerment and environmental conservation programs in East Africa that aim to serve local communities’ needs.
 
 The “Inside Philanthropy” [article](https://www.insidephilanthropy.com/home/2021/7/13/melinda-french-gates-can-transform-philanthropy-for-women-and-girls-heres-how-she-might-do-it) appears to respond to a recent “Medium” [post](https://mackenzie-scott.medium.com/seeding-by-ceding-ea6de642bf) by MacKenzie Scott, which we also discuss in the theory of change article in today’s newsletter. Scott wants the media to de-emphasize those who control wealth and focus on the work funded by that wealth, gallantly arguing that “… people struggling against inequities deserve center stage in stories about change they are creating.”
 
@@ -30,7 +30,7 @@ Another female philanthropist with roots in the tech sector, our own Theresa Pre
 
 “Still, it's a smart call-to-action for her and the folks on her team,” Preston-Werner said. “Love it. Not sure that constantly comparing her to MacKenzie Scott is the right way to do it, however, as if goading her into something.”
 
-On the other end of the philanthropy spectrum, meanwhile, is a “philanthropub” in Portland, Oregon, that encourages patrons to give a dollar or two from a drink’s purchase to a non-profit organization of your choice. Jae Pasari, PWV’s climate program manager who lives in Portland, noted that the watering hole — called the Oregon Public House — has raised over $200,000 since its inception with the tag line “have a pint, change the world.”
+On the other end of the philanthropy spectrum, meanwhile, is a “philanthropub” in Portland, Oregon, that encourages patrons to give a dollar or two from a drink’s purchase to a non-profit organization of your choice. Jae Pasari, 128 Collective’s climate program manager who lives in Portland, noted that the watering hole — called the Oregon Public House — has raised over $200,000 since its inception with the tag line “have a pint, change the world.”
 
 “Drinks on me next time anyone is in town,” he said. “Good margaritas.”
 
@@ -56,13 +56,13 @@ Atkin added that “no newsroom should profit from fossil-fuel propaganda” and
 
 Three cheers for Emily Atkin. Nice work.
 
-#### Shameless plug for a PWV academic
+#### Shameless plug for a 128 Collective academic
 
 Jake Werner is our politics guy and lives in Chicago. He likes to talk about Marxism, capitalism and neoliberalism so much he probably continues his mini-lectures in his dreams. And much like Atkins, he does not mince his words when it comes to progressive politics and his belief that upending the power structure is the only solution to the climate crisis.
 
 Werner recently published a piece in “Foreign Affairs” in which he argues that “conflating democracy with U.S. power only makes sense if you ignore all the struggling democracies of the global South. A foreign policy genuinely centered on democracy would focus on democratizing the global economy.”
 
-His goal being, as a program manager for Politics at PWV, “to find those organizations that are working at the most strategic points in the system, because if they're successful then they will help establish a new system that will not just produce economic growth but will transform all social relations all around the world.”
+His goal being, as a program manager for Politics at 128 Collective, “to find those organizations that are working at the most strategic points in the system, because if they're successful then they will help establish a new system that will not just produce economic growth but will transform all social relations all around the world.”
 
 Check out the piece [here](https://www.foreignaffairs.com/articles/united-states/2021-07-09/does-america-really-support-democracy-or-just-other-rich).
 

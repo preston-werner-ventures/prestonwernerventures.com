@@ -20,11 +20,11 @@ Chow wants progressives to counter any drift toward nationalism in the United St
 
 “There are so many ways that the United States and China could be working together on global vaccination, and they’re not, and I think that is completely holding us back,” he said.
 
-For Theresa Preston-Werner, co-founder of PWV, Chow’s take on how we tend to portray China is part of what drew her to him. She lauded him for “following the threads between several topics and their interconnections.” Seeing those interconnections helped her to believe in an emerging “climate is everything” thesis, as highlighted in this newsletter.
+For Theresa Preston-Werner, co-founder of 128 Collective, Chow’s take on how we tend to portray China is part of what drew her to him. She lauded him for “following the threads between several topics and their interconnections.” Seeing those interconnections helped her to believe in an emerging “climate is everything” thesis, as highlighted in this newsletter.
 
 She funded him to perfect the hack, in other words. To approach the climate problem as well as labor (as well as “journalism”) from new angles. To flip narratives on their heads and see what’s underneath.
 
-“I think Toby and his work are exactly what PWV looks for, an interdisciplinary thinker who understands the complexity in the world and all of the past and present linkages between economy, politics and culture,” she said.
+“I think Toby and his work are exactly what 128 Collective looks for, an interdisciplinary thinker who understands the complexity in the world and all of the past and present linkages between economy, politics and culture,” she said.
 
 She added: “We funded Tobi because he was the person who 1) had the clearest picture of how the global political economy worked and what the levers were and the enormous role that China played (which was not being worked on by anyone else in the United States, as far as we could find), and 2) he wanted to do the work as a job. Often times, I've found that great minds can understand things, but they're not ready to commit themselves to doing daily work. Tobi was.”
 

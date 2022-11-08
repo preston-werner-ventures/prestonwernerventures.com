@@ -14,7 +14,7 @@ But anyway, here’s our first “big idea” post. We’ll be offering several 
 
 *Today’s mind bend*: The sci-fi novel “The Ministry for the Future” and what we can do to avoid its most dire predictions about global warming’s acceleration in the 21st Century.
 
-Reading that book and debating its merit is the sort of activity that excites us at <a href="https://128collective.org">128 Collective</a> (PWV). Our staff, whose locations span several time zones, whose roster includes web developers as well as activists and academics, held a freewheeling Zoom roundtable recently to discuss the novel and weigh our response.
+Reading that book and debating its merit is the sort of activity that excites us at <a href="https://128collective.org">128 Collective</a> (128 Collective). Our staff, whose locations span several time zones, whose roster includes web developers as well as activists and academics, held a freewheeling Zoom roundtable recently to discuss the novel and weigh our response.
 
 The novel jogged more questions than answers, but that’s often the point of our debates. We think of our meetings as a kind of internal TedTalk driven by a desire to do what Kurt Vonnegut said in the novel “Player Piano”: “ … to stand as close to the edge as I can without going over. Out on the edge you see all kinds of things you can't see from the center.”
 
@@ -40,19 +40,19 @@ Catastrophe having become sharper as we cope with the last five years, no doubt.
 
 Among the novel’s clever tricks is an exploration of near-term solutions that’s baked into that muck, some of them difficult to swallow in an age where political violence is all too real. These include outright murder of those corporate souls deemed most responsible for avoiding decarbonization (ecoterrorism) and a technically ambitious plan that would extract water from under Antarctic glaciers, to refreeze it on land and slow rapid melting.
 
-The staff at PWV was more interested in entertaining these ideas conceptually than advocating a single proposal. We took seriously the suggestion that homicide might be deployed, for instance, but we quickly rejected felony crime as unlikely to help.
+The staff at 128 Collective was more interested in entertaining these ideas conceptually than advocating a single proposal. We took seriously the suggestion that homicide might be deployed, for instance, but we quickly rejected felony crime as unlikely to help.
 
-“You can’t just take out specific individuals … and expect to solve the problem,” said Tom Preston-Werner, PWV’s co-founder, during the recent Zoom call. “It’s the system. It’s a machine. You take out one cog and another one gets slotted in.”
+“You can’t just take out specific individuals … and expect to solve the problem,” said Tom Preston-Werner, 128 Collective’s co-founder, during the recent Zoom call. “It’s the system. It’s a machine. You take out one cog and another one gets slotted in.”
 
-Jake Werner, PWV’s director of Policy and Political Research, agreed. In his view, assassination or causing physical wreckage, as the Earth Liberation Front did in the 1990s only to see several of its members behind bars, ultimately backfires.
+Jake Werner, 128 Collective’s director of Policy and Political Research, agreed. In his view, assassination or causing physical wreckage, as the Earth Liberation Front did in the 1990s only to see several of its members behind bars, ultimately backfires.
 
 “We don't ever want to hurt people,” he said, “and it creates a really bad political backlash.”
 
-This point touches on the larger context of our debate, which was to consider climate solutions with respect to how a family foundation like PWV might best spend its money to help alleviate warming. It’s a dilemma faced by many looking to shift a chunk of their privilege and wealth from the global North (the more “developed” part of the world) to curb heat-trapping emissions while aiding the global South.
+This point touches on the larger context of our debate, which was to consider climate solutions with respect to how a family foundation like 128 Collective might best spend its money to help alleviate warming. It’s a dilemma faced by many looking to shift a chunk of their privilege and wealth from the global North (the more “developed” part of the world) to curb heat-trapping emissions while aiding the global South.
 
 Where to focus, after all, when the enemy is a complex, ever-moving and cross-jurisdictional global economic target that tends to hurt the poorest humans first?
 
-“Who should invest in the extreme and dangerous options?” asked Theresa Preston-Werner, PWV’s managing director and co-founder. “Is this best suited for philanthropy?”
+“Who should invest in the extreme and dangerous options?” asked Theresa Preston-Werner, 128 Collective’s managing director and co-founder. “Is this best suited for philanthropy?”
 
 “These are the questions we have to ask,” agreed Tom Preston-Werner. “It seems like we’re incapable of solving this problem by changing policies.”
 
@@ -62,11 +62,11 @@ Other “immediate” actions considered by the novel included seeding the strat
 
 The report leaves one wondering if a few NAS technocrats have been reading Robinson’s books. Loosely known as solar geoengineering, the term refers to strategies meant to cool the Earth by either absorbing heat at high altitudes or reflecting it at lower altitudes. Particles could be distributed by airplane or ship, and would function in much the same way volcanos tend to cool the planet following eruptions.
 
-Theresa Preston-Werner, in her quest to develop a more coherent vision for climate philanthropy, cited the $100 million to $200 million range discussed in the NAS report, suggesting that foundations such as PWV and others might be able to manage that level if governments focus elsewhere. It’s these kinds of decisions that really could make or break a nascent technology idea from the venture-philanthropy side — and why PWV weighs all options when deciding how to invest or donate its money.
+Theresa Preston-Werner, in her quest to develop a more coherent vision for climate philanthropy, cited the $100 million to $200 million range discussed in the NAS report, suggesting that foundations such as 128 Collective and others might be able to manage that level if governments focus elsewhere. It’s these kinds of decisions that really could make or break a nascent technology idea from the venture-philanthropy side — and why 128 Collective weighs all options when deciding how to invest or donate its money.
 
 “You put a couple of family foundations together, and you’d be able to fund that and not be waiting for government to figure it out,” she said.
 
-Jae Pasari, PWV’s climate program manager and the scientist of the group, offered that foundations are already the first movers on solar radiation management, with the Grantham Foundation so far the biggest funder. Marine cloud brightening is perhaps the most likely approach to emerge from this crowd, he said, because it can be tested more easily by ships crossing oceans and “has a lot better chance for social license,” as it involves saltwater projected into the atmosphere rather than man-made aerosols.
+Jae Pasari, 128 Collective’s climate program manager and the scientist of the group, offered that foundations are already the first movers on solar radiation management, with the Grantham Foundation so far the biggest funder. Marine cloud brightening is perhaps the most likely approach to emerge from this crowd, he said, because it can be tested more easily by ships crossing oceans and “has a lot better chance for social license,” as it involves saltwater projected into the atmosphere rather than man-made aerosols.
 
 But the topic is not without controversy. Many on the environmental left fear that consideration of technological interventions would hurt broader plans to green the economy with clean energy sources to avoid emissions from the source. In a Dec. 2020 interview with “Rolling Stone,” Robinson acknowledged an “intense prejudice against the idea of geoengineering” but called the position “a category error” that may not pay attention to “the realities of the danger that we’re in.”
 
@@ -101,7 +101,7 @@ In both cases, Werner believes the global North is wrong-headed not only for env
 
 “We’re in a position where we can still change this, if we do the politics right,” he said. “It’s not like it’s working well even for the elites. They’re constantly afraid of anything going wrong.”
 
-To Yari Greaney, PWV program manager for Local Politics and Environmental Justice, what’s required is a cultural shift in how we relate to the world — and she admits the shift “gets really existential really quickly,” but she still hopes for a movement towards the Iroquois’ “Seventh Generation Principle” that states we should plan for sustainability seven generations ahead of today.
+To Yari Greaney, 128 Collective program manager for Local Politics and Environmental Justice, what’s required is a cultural shift in how we relate to the world — and she admits the shift “gets really existential really quickly,” but she still hopes for a movement towards the Iroquois’ “Seventh Generation Principle” that states we should plan for sustainability seven generations ahead of today.
 
 “I wonder what it takes to get people to think about that time horizon,” she said. “It’s probably easier than infinity but a hurdle nevertheless.”
 

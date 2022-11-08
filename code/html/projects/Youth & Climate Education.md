@@ -4,7 +4,7 @@ Climate change impacts the lives and possibilities of today's youth in ways not 
 
 We believe the route to supporting youth in this era of climate change is through respecting their agency, developing their capacities, and promoting their collective efficacy. We prioritize youth-led initiatives that create purpose-driven, inclusive communities which build and share collective power to bring about change.
 
-Through climate education PWV supports youth in deepening their understanding of climate science and the systemic thinking needed for youth to accurately analyze a range of solutions and direct their efforts to effective action. We are excited by opportunities for youth to engage in local climate and environmental science as well as to develop their political education. Both elements are essential foundations for making the systemic and transformative change this moment requires.
+Through climate education 128 Collective supports youth in deepening their understanding of climate science and the systemic thinking needed for youth to accurately analyze a range of solutions and direct their efforts to effective action. We are excited by opportunities for youth to engage in local climate and environmental science as well as to develop their political education. Both elements are essential foundations for making the systemic and transformative change this moment requires.
 
 We also recognize the fundamental need for young adults to have pathways to develop green career skills and leadership experiences, to create networks and cultivate individual strengths as a base for engaged citizenship and influential roles in the emerging green economy.
 

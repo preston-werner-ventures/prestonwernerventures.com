@@ -2,7 +2,7 @@
 ## November 29 2021
 ### Kate Goss
 
-You may have noticed that we at PWV love a good read. From our weekly [Reading Groups](/learning/reading) to active Slack channels we’re always sharing our discoveries, so when we found that December is officially Read a New Book Month it felt like our kind of celebration.
+You may have noticed that we at 128 Collective love a good read. From our weekly [Reading Groups](/learning/reading) to active Slack channels we’re always sharing our discoveries, so when we found that December is officially Read a New Book Month it felt like our kind of celebration.
 
 We wanted to pass on this joy to you, so we’ve found some climate-themed books to read and share. Perhaps your family embraces the Icelandic tradition of [Jolabokaflod](https://www.npr.org/2012/12/25/167537939/literary-iceland-revels-in-its-annual-christmas-book-flood), you are looking for holiday gift sets, it’s time for a new book for a family read-aloud, or you simply want to curl up and enjoy a new adventure. Whatever your motivation, this month is for you.
 
