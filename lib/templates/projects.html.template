@@ -4,34 +4,34 @@
   <section>
     <form class="flex flex-wrap items-start w-full" data-target="filter.filters">
       <div class="w-full md:pr-1 md:w-1/3">
-        <label for="category" class="text-sm font-semibold text-gray-500 uppercase">Category</label>
+        <label for="category" class="text-sm font-semibold text-stone-500 uppercase">Category</label>
         <select id="category" class="filter rounded" data-target="filter.category" data-action="change->filter#change">
           <option value="">All</option>
           ${categoryOptions}
         </select>
       </div>
       <div class="w-full mt-4 md:mt-0 md:px-2 md:w-1/3">
-        <label for="year" class="text-sm font-semibold text-gray-500 uppercase">Year</label>
+        <label for="year" class="text-sm font-semibold text-stone-500 uppercase">Year</label>
         <select id="year" class="filter rounded" data-target="filter.year" data-action="change->filter#change">
           <option value="">All</option>
           ${yearOptions}
         </select>
       </div>
       <div class="w-full mt-4 md:mt-0 md:pl-1 md:w-1/3">
-        <label for="location" class="text-sm font-semibold text-gray-500 uppercase">Location</label>
+        <label for="location" class="text-sm font-semibold text-stone-500 uppercase">Location</label>
         <select id="location" class="filter rounded" data-target="filter.location" data-action="change->filter#change">
           <option value="">All</option>
           ${locationOptions}
         </select>
         <div class="text-right">
-          <a href="#" class="text-xs text-blue-600" data-action="click->filter#clear">Clear Filters</a>
+          <a href="#" class="font-semibold text-sm text-green-700 hover:underline" data-action="click->filter#clear">Clear Filters</a>
         </div>
       </div>
     </form>
   </section>
 
   <section class="mt-2">
-    <h2 class="mr-4 text-sm font-semibold text-gray-500 uppercase">Legend</h2>
+    <h2 class="mr-4 text-sm font-semibold text-stone-500 uppercase">Legend</h2>
     <ul class="flex flex-wrap text-xs">
       ${legend}
     </ul>

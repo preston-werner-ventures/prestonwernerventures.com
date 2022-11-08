@@ -29,19 +29,19 @@
 
 .reading-link {
   @apply inline-block -ml-2 px-2 py-1 rounded underline;
+}
 
-  &:hover {
-    @apply bg-blue-200 no-underline;
-  }
+.reading-link:hover {
+  @apply bg-blue-200 no-underline;
 }
 
 .nav {
-  @apply px-2 py-1 rounded;
+  @apply px-4 py-2 rounded;
 }
 
 @screen sm {
   .nav:hover {
-    @apply bg-blue-200 text-blue-900;
+    @apply bg-stone-100 text-stone-800;
   }
 }
 
@@ -60,11 +60,11 @@
 }
 
 .button {
-  @apply font-sans font-semibold bg-blue-200 text-blue-800 px-4 py-3 rounded tracking-wide transition-colors duration-100;
+  @apply font-sans font-semibold bg-stone-100 text-stone-800 px-4 py-3 rounded tracking-wide transition-colors duration-100;
 }
 
 .button:hover {
-  @apply bg-blue-700 text-blue-100
+  @apply bg-stone-700 text-stone-100
 }
 
 /*

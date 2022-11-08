@@ -3,7 +3,7 @@
 <section class="flex flex-wrap">
   @@include("learning_nav")
 
-  <div class="flex-1 font-serif font-light">
+  <div class="flex-1">
     <p>
       Each week one member of Preston-Werner Ventures chooses a book, paper,
       or other piece of media that we think applies to our mission at PWV and that
