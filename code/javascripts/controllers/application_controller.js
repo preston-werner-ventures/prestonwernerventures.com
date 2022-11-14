@@ -4,18 +4,27 @@ import { Controller } from "stimulus";
 
 export default class extends Controller {
   static get targets() {
-    return ["twitterStream", "year", "contact"];
+    return ['header', 'home', 'twitterStream', 'year', 'contact']
   }
 
   connect() {
     this._setYear();
     this._showTwitterStream();
+    this.onScroll()
   }
 
   toggleContact(e) {
     this.contactTarget.classList.toggle('hidden')
     this.contactTarget.querySelector('input').focus()
     e.preventDefault()
+  }
+
+  onScroll(e) {
+    if (this.hasHomeTarget && window.scrollY < 200) {
+      this.headerTarget.classList.add('opacity-0')
+    } else {
+      this.headerTarget.classList.remove('opacity-0')
+    }
   }
 
   _setYear() {
