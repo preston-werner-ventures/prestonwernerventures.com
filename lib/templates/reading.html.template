@@ -1,12 +1,12 @@
-@@layout("application", { "title" : "What We're Reading | Preston-Werner Ventures" })
+@@layout("application", { "title" : "What We're Reading | 128 Collective" })
 
 <section class="flex flex-wrap">
   @@include("learning_nav")
 
-  <div class="flex-1 font-serif font-light">
+  <div class="flex-1">
     <p>
-      Each week one member of Preston-Werner Ventures chooses a book, paper,
-      or other piece of media that we think applies to our mission at PWV and that
+      Each week one member of 128 Collective chooses a book, paper,
+      or other piece of media that we think applies to our mission at 128 Collective and that
       everyone will find interesting. We get one week to read and then come together
       every Wednesday for an hour to ask questions and discuss. Here's what we've read so far:
     </p>

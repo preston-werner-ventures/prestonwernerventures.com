@@ -1,16 +1,16 @@
-# COMMUNITY: For PWV, finding global partners started with a workshop in Uganda 
-## Aug. 12, 2021 
+# COMMUNITY: For 128 Collective, finding global partners started with a workshop in Uganda 
+## Aug. 12, 2021
 ### Colin Sullivan and Amelia Abdelrazik
 
-Reframing power dynamics in philanthropy is easier said than done. This post is about how Preston-Werner Ventures worked intimately with a handful of sexual and reproductive health organizations in East Africa, in hopes that we might better navigate between the global North and global South with actions not words. 
+Reframing power dynamics in philanthropy is easier said than done. This post is about how 128 Collective worked intimately with a handful of sexual and reproductive health organizations in East Africa, in hopes that we might better navigate between the global North and global South with actions not words. 
 
-Context: PWV staff in 2019 went to Kampala, in Uganda, to meet with prospective grantees. We flew people in from across East Africa, conducted a three-day workshop and let the grantees decide some major family-planning funding decisions for themselves. 
+Context: 128 Collective staff in 2019 went to Kampala, in Uganda, to meet with prospective grantees. We flew people in from across East Africa, conducted a three-day workshop and let the grantees decide some major family-planning funding decisions for themselves. 
 
 The idea was to explore how to make grantmaking more participatory, by involving humans on the ground doing the work of social and behavioral change. We hoped to refine approaches to securing funds as well as create community and share best practices.
 
-Further context: Although most grantmaking is still done by program officers reading proposals written by organizations from afar, PWV wanted to try a new model by peer selection. This was before the Covid-19 global outbreak, it should be noted, but lessons learned then apply to disparities evident during the pandemic. 
+Further context: Although most grantmaking is still done by program officers reading proposals written by organizations from afar, 128 Collective wanted to try a new model by peer selection. This was before the Covid-19 global outbreak, it should be noted, but lessons learned then apply to disparities evident during the pandemic. 
 
-The workshop: Twenty-two participants attended from eleven organizations in Kenya, Uganda, Ethiopia, Burundi, Malawi and Rwanda. Three were existing PWV grantee partners, three had applied before unsuccessfully, and five were “mentor” organizations. Each sent a youth representative and one staff member. It was led by: Theresa Preston-Werner, PWV’s managing director; Lindsay Menard-Freeman, founder and CEO of the Torchlight Collective; and Amelia Abdelrazik, portfolio and impact manager at PWV.
+The workshop: Twenty-two participants attended from eleven organizations in Kenya, Uganda, Ethiopia, Burundi, Malawi and Rwanda. Three were existing 128 Collective grantee partners, three had applied before unsuccessfully, and five were “mentor” organizations. Each sent a youth representative and one staff member. It was led by: Theresa Preston-Werner, 128 Collective’s managing director; Lindsay Menard-Freeman, founder and CEO of the Torchlight Collective; and Amelia Abdelrazik, portfolio and impact manager at 128 Collective.
 
 Attendees: Mother Health International, ACCESS, Reach a Hand Uganda and the Kabubbu Development Project, from Uganda; GRADIF-K, Dandelion Africa and KMET, from Kenya; the Kindle Orphan Outreach, from Malawi; the Musanze Youth Center, from Rwanda; SaCoDe, from Burundi; and PSI Ethiopia, from Ethiopia.
 
@@ -20,21 +20,21 @@ Ok, so, let’s face it: Wealth to offer is a place of privilege. The 1 percent 
 
 We’re here, in other words. We’re trying to redistribute some of the wealth, however it may have been acquired, and learning about how to do it effectively and equitably as we go. And so we ask ourselves, as a family foundation with its roots in a startup-driven industry, how can we do this better? Isn’t there a way to operate from this advantageous place with more compassion for and insights from the people actually doing the work?
 
-In 2019, Theresa Preston-Werner, PWV’s co-founder, sought an answer to that question. She proposed a workshop to bring together organizations working on youth family planning in East Africa that would hand them the grantmaking reins. Amelia Abdelrazik, then the portfolio and impact manager at PWV, loved the idea. Folks closer to “the problem” taking the lead came naturally given her experience working as a Peace Corps volunteer in Botswana.
+In 2019, Theresa Preston-Werner, 128 Collective’s co-founder, sought an answer to that question. She proposed a workshop to bring together organizations working on youth family planning in East Africa that would hand them the grantmaking reins. Amelia Abdelrazik, then the portfolio and impact manager at 128 Collective, loved the idea. Folks closer to “the problem” taking the lead came naturally given her experience working as a Peace Corps volunteer in Botswana.
 
 Theresa brought a different background, having completed a Ph.D. in anthropology and organized non-profits in Central America to educate young women and expand access to family planning. That training preceded her experience starting companies in the tech industry.
 
 With all that serving as their stage, Amelia and Theresa together came up with a plan that they hoped would encourage a more participatory process. They did so because money-allocation can leave those seeking the funds alienated. They wanted to hear and feel those on the other side, as well as help them to craft better presentations when asking for the funds they need to make their work happen. 
 
-The PWV attitude reflects a broader movement in philanthropic thought. While she did not invent the wheel in this respect, a recent blog post by MacKenzie Scott in which she urged the media to not focus on the $2.74 billion she has donated to 286 entities this year brought the issue more attention. Long story short, Scott doesn’t want her unprecedented charity spree to mean more focus on her; she wants it to shine a light on “people struggling against inequities,” as she stated in a recent blog post on Medium. 
+The 128 Collective attitude reflects a broader movement in philanthropic thought. While she did not invent the wheel in this respect, a recent blog post by MacKenzie Scott in which she urged the media to not focus on the $2.74 billion she has donated to 286 entities this year brought the issue more attention. Long story short, Scott doesn’t want her unprecedented charity spree to mean more focus on her; she wants it to shine a light on “people struggling against inequities,” as she stated in a recent blog post on Medium. 
 
 “Putting large donors at the center of stories on social progress is a distortion of their role,” she wrote, in an essay posted on <a href="https://mackenzie-scott.medium.com/"> Medium</a>. “We are all attempting to give away a fortune that was enabled by systems in need of change. In this effort, we are governed by a humbling belief that it would be better if disproportionate wealth were not concentrated in a small number of hands, and that the solutions are best designed and implemented by others.”
 
-And though PWV doesn’t have THAT kind of cash, we still concur. We continue to believe in raising up voices however and wherever we can. 
+And though 128 Collective doesn’t have THAT kind of cash, we still concur. We continue to believe in raising up voices however and wherever we can. 
 
 #### Frontline issues: Contraception, HIV, homophobia … and now Covid
 
-Community was the basic idea behind the Kampala workshop. How to reach it and listen to it and give representatives a clear avenue to share their work. PWV asked each attending organization to send a youth participant as well as an operational staff member, not necessarily an executive director. Executive directors and other heads of organizations often have professional development opportunities but may not be as intimately involved with the day-to-day work. Amelia in particular wanted to make sure that this workshop sidestepped the typical leader-focused event.
+Community was the basic idea behind the Kampala workshop. How to reach it and listen to it and give representatives a clear avenue to share their work. 128 Collective asked each attending organization to send a youth participant as well as an operational staff member, not necessarily an executive director. Executive directors and other heads of organizations often have professional development opportunities but may not be as intimately involved with the day-to-day work. Amelia in particular wanted to make sure that this workshop sidestepped the typical leader-focused event.
 
 Organizations were focused on the core issues related to frontline family-planning problems in East Africa. Namely, older health workers who might have a bias against distributing contraception; widespread homophobia or laws against homosexuality; better training for midwives; the prevalence of HIV and misinformation about it; malaria; and how to reach young people to talk about family planning, reproductive rights or any of the above. 
 
@@ -54,9 +54,9 @@ Maureen also credited Amelia and Theresa for allowing participants to interact w
 
 The inclusion of youth representatives was seen as vital, because so much of the work in East Africa had to do with adolescent girls and young women and their access to sexual reproductive health and family planning information. Maureen said her project sites are often in hard-to-reach rural communities, some of them in refugee settlements more than 200 miles from Kampala. 
 
-Moreover, reproductive health services are often considered taboo in Uganda, so Reach a Hand Uganda works with young people to train peer educators. Maureen credits PWV for family-planning funding that was unrestricted and helped her group allocate for peer educators to travel long distances in mountainous areas, “or supporting us to acquire teaching aids that make the peer educators' learning sessions easier in their communities of practice.”
+Moreover, reproductive health services are often considered taboo in Uganda, so Reach a Hand Uganda works with young people to train peer educators. Maureen credits 128 Collective for family-planning funding that was unrestricted and helped her group allocate for peer educators to travel long distances in mountainous areas, “or supporting us to acquire teaching aids that make the peer educators' learning sessions easier in their communities of practice.”
 
-But she also cautioned that community realities on the ground often correspond with larger conflicts between the haves and have-nots. This has become more apparent during the spread of Covid-19 and Uganda’s limited access to vaccines. (Maureen’s comments about the PWV process were offered last week.) 
+But she also cautioned that community realities on the ground often correspond with larger conflicts between the haves and have-nots. This has become more apparent during the spread of Covid-19 and Uganda’s limited access to vaccines. (Maureen’s comments about the 128 Collective process were offered last week.) 
 
 “I think it's helpful for your audience in the United States to recognize that while the challenges we work on are mostly community-based in terms of their impact, a clear parallel can be drawn between these ‘Ugandan’ issues and the global issues such as foreign policy from the global North,” she said, pointing to the Trump administration’s so-called “Global Gag Rule” and more recently Covid-19 vaccine inequity.
 
@@ -96,7 +96,7 @@ Looking back now on the three-day workshop, Theresa sees the experiment as a suc
 
 “It was amazing when they looked at us and asked, ‘Can we really do this?’” Theresa said. “There were some really beautiful moments.” 
 
-Amelia likewise views the work as a success, because PWV was able to recognize and cede power to those working on the frontlines, now becoming its own  movement in philanthropy. She called the experiment “a humbling exercise that checks your own self-importance.” 
+Amelia likewise views the work as a success, because 128 Collective was able to recognize and cede power to those working on the frontlines, now becoming its own  movement in philanthropy. She called the experiment “a humbling exercise that checks your own self-importance.” 
 
 “It was a really great reminder of different kinds of expertise and what the limitations of our own knowledge can be,” she said. 
 
