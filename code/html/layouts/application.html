@@ -70,6 +70,17 @@
     class="bg-stone-200 text-stone-800 antialiased h-full flex flex-col"
     data-controller="application"
   >
+
+    <!-- notice for people landing on prestonwernerventures.com -->
+    <div data-target="application.pwvNotice" class="hidden pwv-notice fixed inset-0 z-10 flex items-center justify-center">
+      <div class="max-w-lg bg-white mx-auto p-12 rounded shadow-lg flex flex-col items-center justify-center">
+        <img src="/images/logo-pwv.png" class="w-48" />
+        <p class="my-8 text-center">Hello! We are launching a re-brand. We are now <span class="highlight-word">128 Collective</span>, where we focus on climate and everything related.</p>
+        <img src="/images/logo.svg" class="w-24" />
+        <a href="https://128collective.org" class="inline-block mt-8 button">Take Me to <span class="underline">128collective.org</span> &rarr;</a>
+      </div>
+    </div>
+
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="fixed inset-x-0 z-10 transition duration-250 bg-white py-2 text-center opacity-0" data-action="scroll@window->application#onScroll turbolinks:load@window->application#onScroll" data-target="application.header">
         <div class="max-w-4xl mx-auto lg:flex lg:justify-between lg:items-center" data-controller="nav" data-nav-active="bg-green-700 text-white px-1 mx-1" data-nav-remove="text-red-900">

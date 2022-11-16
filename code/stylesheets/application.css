@@ -5,6 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.pwv-notice {
+  background-color: theme(colors.stone.500)
+}
+
 .twitter-fade-top {
   background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 80%);
 }
