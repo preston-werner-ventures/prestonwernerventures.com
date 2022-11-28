@@ -11,7 +11,4 @@ publish/*
 
 yarn-error.log
 
-code/html/projects/*.html
-code/html/blog.html
-code/html/blog/*.html
-code/html/learning/reading.html
+code/html/index.html
