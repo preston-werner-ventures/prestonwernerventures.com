@@ -1,4 +1,4 @@
-@@layout("application", { "title" : "Projects List | Preston-Werner Ventures" })
+@@layout("application", { "title" : "Preston-Werner Ventures" })
 
 <h2 class="text-center text-4xl">Angel Investments</h2>
 
