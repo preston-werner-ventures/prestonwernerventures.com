@@ -1,5 +1,0 @@
-# form: politics
-
-Politics is the realm in which we join together to make collective decisions about how our society should work and what it should value. But too often politics has been captured by those already most advantaged by our society, reinforcing unjust hierarchies that poison social relations, undermine democracy, and sabotage our efforts to resolve humanity's more urgent threats: climate change, pandemic disease, militarism, nationalism, and economic dysfunction.
-
-PWV's political efforts are aimed at deepening democracy and creating an inclusive society, both in the US and globally, that is driven by solidarity and cooperation. We support a range of efforts to transform politics in this direction: grassroots organizing, candidate education, policy and legislative campaigns, reforming US foreign policy, and racial justice initiatives. We are particularly interested in building the capacity and sophistication for progressive politics, in confronting the climate crisis, and in winning public investment and job creation to drive development in capital-starved communities both in the US and globally.

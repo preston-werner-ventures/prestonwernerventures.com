@@ -34,17 +34,17 @@
     <!-- notice for people landing on prestonwernerventures.com -->
     <div data-target="application.pwvNotice" class="pwv-notice fixed inset-0 z-10 flex items-center justify-center">
       <div class="max-w-4xl bg-white mx-auto p-12 rounded shadow-lg flex flex-col items-center justify-center">
-        <p class="text-center text-xl font-semibold">Hello! We are splitting our angel investment and non-profit giving:</p>
-        <div class="flex items-center justify-center mt-12">
-          <div class="flex flex-col items-center pr-8 w-1/2">
-            <img src="/images/logo.png" class="w-48" />
-            <p class="my-4 text-center">Angel investments will still come from <span class="highlight-word whitespace-no-wrap">Preston Werner Ventures</span>.</p>
-            <button type="button" data-action="click->application#removeNotice" class="inline-block mt-4 button">Stay at <span class="underline">prestonwernerventures.com</span></button>
+        <p class="text-center md:text-xl font-semibold">Hello! We are splitting our angel investment and non-profit giving:</p>
+        <div class="flex flex-col md:flex-row items-center justify-center mt-12">
+          <div class="flex flex-col items-center md:pr-8 md:w-1/2">
+            <img src="/images/logo.png" class="w-32 md:w-48" />
+            <p class="text-sm md:text-base my-4 text-center">Angel investments will still come from <span class="highlight-word whitespace-no-wrap">Preston Werner Ventures</span>.</p>
+            <button type="button" data-action="click->application#removeNotice" class="inline-block md:mt-4 button text-sm md:text-base">Stay at <span class="underline">prestonwernerventures.com</span></button>
           </div>
-          <div class="flex flex-col items-center w-1/2 pl-8 border-l">
-            <img src="/images/logo-128.svg" class="w-24" />
-            <p class="my-4 text-center">At <span class="highlight-word">128 Collective</span> we focus on climate and everything related.</p>
-            <a href="https://128collective.org" class="inline-block mt-4 button">Take Me to <span class="underline">128collective.org</span> &rarr;</a>
+          <div class="flex flex-col items-center md:w-1/2 md:pl-8 md:border-l mt-16 md:mt-0">
+            <img src="/images/logo-128.svg" class="w-16 md:w-24" />
+            <p class="my-4 text-sm md:text-base text-center">At <span class="highlight-word">128 Collective</span> we focus on climate and everything related.</p>
+            <a href="https://128collective.org" class="inline-block md:mt-4 button text-sm md:text-base">Take Me to <span class="underline">128collective.org</span> &rarr;</a>
           </div>
         </div>
       </div>
@@ -52,71 +52,13 @@
 
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="bg-white py-6 text-center">
-        <div class="max-w-4xl mx-auto lg:flex lg:justify-between lg:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">
+        <div class="max-w-4xl mx-auto lg:flex lg:justify-center lg:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">
           <div class="w-48 lg:w-32 mx-auto lg:mx-0">
             <a href="/">
               <img class="" src="/images/logo.png" alt="Preson-Werner Ventures Logo" />
               <h1 class="hidden">Preston-Werner Ventures</h1>
             </a>
           </div>
-          <a href="#" class="lg:hidden" data-action="nav#toggle">
-            <i class="icon icon-2xl absolute mt-3 mr-4 top-0 right-0">menu</i>
-          </a>
-          <ul
-            class="hidden lg:flex justify-between max-w-lg lg:max-w-none mx-auto lg:mx-0 lg:mx-n mt-6 lg:mt-0 -mb-6 lg:mb-0 px-6 lg:px-0 py-4 lg:py-0 lg:font-regular text-lg lg:text-base text-blue-800 border-t border-b lg:border-t-0 lg:border-b-0"
-            data-target="nav.menu"
-          >
-            <li>
-              <a
-                href="/projects/all.html#category=Angel%20Investments"
-                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
-                >Angel Investments</a
-              >
-            </li>
-            <li class="mt-2 lg:mt-0">
-              <a
-                href="/team.html"
-                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
-                data-target="nav.link"
-                >Team</a
-              >
-            </li>
-            <li class="mt-2 lg:mt-0">
-              <a
-                href="/projects/climate.html"
-                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
-                data-target="nav.link"
-                data-match="/projects/"
-                >What We Fund</a
-              >
-            </li>
-            <li class="mt-2 lg:mt-0">
-              <a
-                href="/learning/reading.html"
-                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
-                data-target="nav.link"
-                data-match="/learning"
-                >What We're Learning</a
-              >
-            </li>
-            <li class="mt-2 lg:mt-0">
-              <a
-                href="/blog.html"
-                class="px-2 py-1 lg:px-4 lg:py-2 rounded lg:hover:bg-blue-100 lg:hover:text-blue-700"
-                data-target="nav.link"
-                data-match="/blog"
-                >Blog</a
-              >
-            </li>
-            <!-- <li class="ml-1">
-              <a
-                href="/apply.html"
-                class="px-2 py-1 lg:px-4 lg:py-2 rounded text-red-900 lg:hover:bg-red-100 lg:hover:text-red-700"
-                data-target="nav.link"
-                >Apply <span class="hidden lg:inline">for Funding</span></a
-              >
-            </li> -->
-          </ul>
         </div>
       </header>
 
