@@ -23,57 +23,33 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
     <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
     <script type="text/javascript" src="/javascripts/application.js"></script>
-    <script type="text/javascript">
-      !function() {
-        "use strict";
-        var o = window.location
-          , a = window.document
-          , t = window.localStorage
-          , r = a.currentScript
-          , l = "https://dpxl0uf0kxlpt.cloudfront.net/api/event" // CDN proxy, rob@pwv account
-          , w = t && t.plausible_ignore;
-        function s(t) {
-          console.warn("Ignoring Event: " + t)
-        }
-        function n(t, n) {
-          if (/^localhost$|^127(\.[0-9]+){0,2}\.[0-9]+$|^\[::1?\]$/.test(o.hostname) || "file:" === o.protocol)
-            return s("localhost");
-          if (!(window._phantom || window.__nightmare || window.navigator.webdriver || window.Cypress)) {
-            if ("true" == w)
-              return s("localStorage flag");
-            var e = {};
-            e.n = t,
-            e.u = o.href,
-            e.d = r.getAttribute("data-domain"),
-            e.r = a.referrer || null,
-            e.w = window.innerWidth,
-            n && n.meta && (e.m = JSON.stringify(n.meta)),
-            n && n.props && (e.p = JSON.stringify(n.props));
-            var i = new XMLHttpRequest;
-            i.open("POST", l, !0),
-            i.setRequestHeader("Content-Type", "text/plain"),
-            i.send(JSON.stringify(e)),
-            i.onreadystatechange = function() {
-                4 == i.readyState && n && n.callback && n.callback()
-            }
-          }
-        }
-        var e = window.plausible && window.plausible.q || [];
-        window.plausible = n;
-        for (var i = 0; i < e.length; i++)
-          n.apply(this, e[i])
-      }();
-
-      document.addEventListener('turbolinks:load', function() {
-        plausible('pageview')
-      })
-    </script>
+    <script defer data-domain="prestonwernerventures.com" src="https://plausible.io/js/script.js"></script>
   </head>
 
   <body
     class="bg-blue-100 text-blue-900 font-sans antialiased h-full flex flex-col"
     data-controller="application"
   >
+
+    <!-- notice for people landing on prestonwernerventures.com -->
+    <div data-target="application.pwvNotice" class="pwv-notice fixed inset-0 z-10 flex items-center justify-center">
+      <div class="max-w-4xl bg-white mx-auto p-12 rounded shadow-lg flex flex-col items-center justify-center">
+        <p class="text-center text-xl font-semibold">Hello! We are splitting our angel investment and non-profit giving:</p>
+        <div class="flex items-center justify-center mt-12">
+          <div class="flex flex-col items-center pr-8 w-1/2">
+            <img src="/images/logo.png" class="w-48" />
+            <p class="my-4 text-center">Angel investments will still come from <span class="highlight-word whitespace-no-wrap">Preston Werner Ventures</span>.</p>
+            <button type="button" data-action="click->application#removeNotice" class="inline-block mt-4 button">Stay at <span class="underline">prestonwernerventures.com</span></button>
+          </div>
+          <div class="flex flex-col items-center w-1/2 pl-8 border-l">
+            <img src="/images/logo-128.svg" class="w-24" />
+            <p class="my-4 text-center">At <span class="highlight-word">128 Collective</span> we focus on climate and everything related.</p>
+            <a href="https://128collective.org" class="inline-block mt-4 button">Take Me to <span class="underline">128collective.org</span> &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="bg-white py-6 text-center">
         <div class="max-w-4xl mx-auto lg:flex lg:justify-between lg:items-center" data-controller="nav" data-nav-active="bg-blue-800 text-white px-1 mx-1" data-nav-remove="text-red-900">

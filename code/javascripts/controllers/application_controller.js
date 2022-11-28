@@ -4,7 +4,7 @@ import { Controller } from "stimulus";
 
 export default class extends Controller {
   static get targets() {
-    return ["twitterStream", "year", "contact"];
+    return ['pwvNotice', 'twitterStream', 'year', 'contact']
   }
 
   connect() {
@@ -16,6 +16,10 @@ export default class extends Controller {
     this.contactTarget.classList.toggle('hidden')
     this.contactTarget.querySelector('input').focus()
     e.preventDefault()
+  }
+
+  removeNotice(e) {
+    this.pwvNoticeTarget.classList.add('hidden')
   }
 
   _setYear() {

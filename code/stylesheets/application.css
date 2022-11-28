@@ -1,16 +1,12 @@
-/* See https://cameronjs.com/tailwindcss for more about Tailwind CSS */
+/* See https://cameronjs.org/css for more info */
 
 @tailwind base;
 @tailwind components;
-
-/*
-  Overriding styles or extracted components go here, see:
-
-  https://tailwindcss.com/docs/adding-base-styles
-  https://tailwindcss.com/docs/extracting-components
-*/
-
 @tailwind utilities;
+
+.pwv-notice {
+  background-color: theme(colors.stone.500)
+}
 
 .twitter-fade-top {
   background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 80%);
@@ -43,7 +39,7 @@
 }
 
 .nav {
-  @apply px-2 py-1 rounded break-clone;
+  @apply px-2 py-1 rounded;
 }
 
 @screen sm {
