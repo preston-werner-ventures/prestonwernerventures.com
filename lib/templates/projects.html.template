@@ -8,7 +8,7 @@
   <input type="hidden" id="location" class="filter rounded" value="" data-target="filter.location" data-action="change->filter#change" />
 
   <section>
-    <ul class="flex flex-wrap my-4 md:my-8 -mx-3">
+    <ul class="flex flex-wrap my-4 md:my-8 -mx-3 list-none">
       ${tiles}
     </ul>
   </section>

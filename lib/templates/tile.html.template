@@ -1,5 +1,5 @@
 <li
-  class="flex-shrink-0 relative w-full md:w-1/${width} my-3"
+  class="flex-shrink-0 relative w-full md:w-1/${width} my-3 p-0"
   data-target="filter.tile"
   data-categories="${categories.join(',')}"
   data-years="${years.join(',')}"
@@ -19,24 +19,15 @@
         <% } %>
       </a>
     </div>
-    <footer class="flex justify-between absolute bottom-0 left-0 right-0 my-2 mx-4">
-      <ul class="flex mx-1">
-        <% categorySymbols.forEach(category => { %>
-        <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold mr-1">
-          <a href="#category=${category.name}">
-            <span class="block bg-blue-200 text-blue-700 rounded w-6 text-center cursor-pointer" title="${category.name}">${category.symbol}</span>
-          </a>
-        </li>
-        <% }) %>
-      </ul>
+    <footer class="flex justify-end absolute bottom-0 left-0 right-0 my-2 mx-4">
       <ul class="flex mx-1">
         <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold ml-3">
           <i class="icon mr-half text-lg cursor-pointer text-gray-400">calendar_today</i>
-          <a href="#year=${years[0]}">${yearsString}</a>
+          ${yearsString}
         </li>
         <li class="flex items-center mt-1 font-sans text-xs text-gray-500 font-semibold ml-3">
           <i class="icon mr-half text-lg cursor-pointer text-gray-400">place</i>
-          <a href="#location=${locations[0]}">${locations.join(', ')}</a>
+          ${locations.join(', ')}
         </li>
       </ul>
     </footer>
