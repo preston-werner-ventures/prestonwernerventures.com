@@ -8,7 +8,9 @@
 >
   <div class="h-full bg-white shadow mx-3 p-4 rounded-lg">
     <div class="relative pb-2/3">
-      <img src="${photo}" loading="lazy" class="absolute w-full h-full object-cover rounded" />
+      <a href="${url}" target="_blank">
+        <img src="${photo}" loading="lazy" class="absolute w-full h-full object-cover rounded" />
+      </a>
     </div>
     <div class="mt-2 mb-6 text-center">
       <a href="${url}" target="_blank">
