@@ -7,13 +7,13 @@
     <title>@@title</title>
     <meta
       name="description"
-      content="Working on social justice, climate change, and technology."
+      content="investing in early-stage technology companies"
     />
     <meta property="og:site_name" content="Preson-Werner Ventures" />
     <meta property="og:title" content="@@title" />
     <meta
       property="og:description"
-      content="Working on social justice, climate change, and technology."
+      content="investing in early-stage technology companies"
     />
     <meta property="og:image" content="/images/logo-padded.png" />
     <meta property="og:url" content="https://prestonwernerventures.com" />
@@ -47,25 +47,7 @@
     class="bg-blue-100 text-blue-900 font-sans antialiased h-full flex flex-col"
     data-controller="application"
   >
-    <!-- notice for people landing on prestonwernerventures.com -->
-    <!-- <div data-target="application.pwvNotice" class="pwv-notice fixed inset-0 z-10 flex items-center justify-center">
-      <div class="max-w-4xl bg-white mx-auto p-12 rounded shadow-lg flex flex-col items-center justify-center">
-        <p class="text-center md:text-xl font-semibold">Hello! We are splitting our angel investment and non-profit giving:</p>
-        <div class="flex flex-col md:flex-row items-center justify-center mt-12">
-          <div class="flex flex-col items-center md:pr-8 md:w-1/2">
-            <img src="/images/logo.png" class="w-32 md:w-48" />
-            <p class="text-sm md:text-base my-4 text-center">Angel investments will still come from <span class="highlight-word whitespace-nowrap">Preston Werner Ventures</span>.</p>
-            <button type="button" data-action="click->application#removeNotice" class="inline-block md:mt-4 button text-sm md:text-base">Stay at <span class="underline">prestonwernerventures.com</span></button>
-          </div>
-          <div class="flex flex-col items-center md:w-1/2 md:pl-8 md:border-l mt-16 md:mt-0">
-            <img src="/images/logo-128.svg" class="w-16 md:w-24" />
-            <p class="my-4 text-sm md:text-base text-center">At <span class="highlight-word">128 Collective</span> we make c3, c4, and campaign contributions focused on climate.</p>
-            <a href="https://128collective.org" class="inline-block md:mt-4 button text-sm md:text-base">Take Me to <span class="underline">128collective.org</span> &rarr;</a>
-          </div>
-        </div>
-      </div>
-    </div> -->
-
+  
     <div class="flex-grow flex-shrink-0 flex-auto">
       <header class="bg-white py-6 text-center">
         <div
@@ -81,7 +63,7 @@
                 src="/images/logo.png"
                 alt="Preson-Werner Ventures Logo"
               />
-              <h1 class="hidden">Preston-Werner Ventures</h1>
+              <h1 class="hidden">Preston-Werner Ventures Rolling Fund</h1>
             </a>
           </div>
         </div>
@@ -90,6 +72,43 @@
       @@content("banner")
 
       <main class="mt-12 lg:mt-16 max-w-4xl mx-6 lg:mx-auto my-2">
+        <h2 class="bold text-2xl text-slate-500">Current</h2>
+        <h3 class="mb-3 text-2xl">Preston-Werner Ventures Rolling Fund</h3>
+        <p class="mb-2">
+          Led by Tom Preston-Werner (GitHub cofounder), this fund invests in
+          early-stage technology companies. Our three-partner team, consisting
+          of active founder-operators, also provides hands-on assistance,
+          peer-to-peer support, and VC networking to increase the likelihood of
+          companies&apos; success. We actively participate in follow-on rounds,
+          building on Tom&apos;s successful track record as an angel investor
+          the past decade.
+        </p>
+        <p class="mb-4">
+          We created the fund in early 2023 using the AngelList Rolling Fund
+          vehicle. We fundraise publicly and continuously. As of October 1st,
+          2023, we have completed 46 investments.
+        </p>
+        <p class="mb-2 ml-10 mt-2">
+          <a
+            href="https://venture.angellist.com/v/back/preston-werner-ventures-rolling-fund"
+            class="text-blue-600 underline"
+          >
+            Learn more about the fund activity, partners, and thesis.
+          </a>
+        </p>
+        <p>
+          <span class="mb-2 ml-10 mt-2 font-bold">
+            Interested in becoming a fund LP?{' '}
+          </span>
+          <a
+            href="https://venture.angellist.com/v/back/preston-werner-ventures-rolling-fund"
+            class="text-blue-600 underline"
+          >
+            Accredited investors are invited to apply.
+          </a>
+        </p>
+        <h2 class="bold mt-10 text-2xl text-slate-500">Past</h2>
+        <h3 class="mb-3 text-2xl">Angel Investments</h3>
         @@content
       </main>
     </div>

@@ -1,7 +1,5 @@
 @@layout("application", { "title" : "Preston-Werner Ventures" })
 
-<h2 class="text-center text-4xl">Angel Investments</h2>
-
 <div data-controller="filter">
   <input type="hidden" id="category" class="filter rounded" value="Angel Investments" data-target="filter.category" data-action="change->filter#change" />
   <input type="hidden" id="year" class="filter rounded" value="" data-target="filter.year" data-action="change->filter#change" />
