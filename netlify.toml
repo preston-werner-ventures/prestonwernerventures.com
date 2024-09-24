@@ -50,3 +50,9 @@
 
 # See https://www.netlify.com/docs/netlify-toml-reference/#headers
 # [[headers]]
+
+[[redirects]]
+  from = "/fund-memo"
+  to = "https://redwoodjs.notion.site/PWV-Fund-Memo-10bb3e27e9b58027bb89fe94717cf9ac?pvs=4"
+  status = 301
+  force = true
